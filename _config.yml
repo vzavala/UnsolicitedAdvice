@@ -1,0 +1,31 @@
+# Jupyter Book configuration: https://jupyterbook.org/en/stable/customize/config.html
+title: Unsolicited Advice for Young Scientists
+author: Victor M. Zavala
+copyright: "2022–2026"
+only_build_toc_files: true
+exclude_patterns: [.venv, _build, source, tools, private, .github, README.md, "**/.ipynb_checkpoints"]
+
+execute:
+  execute_notebooks: "off"
+
+parse:
+  myst_enable_extensions:
+    - colon_fence
+    - tasklist
+    - linkify
+
+repository:
+  url: https://github.com/YOUR-GITHUB-USERNAME/AdviceGitBook
+  branch: main
+
+html:
+  use_repository_button: false
+  use_issues_button: false
+  use_edit_page_button: false
+  home_page_in_navbar: true
+
+sphinx:
+  config:
+    html_show_sourcelink: false
+    html_theme_options:
+      show_toc_level: 2
