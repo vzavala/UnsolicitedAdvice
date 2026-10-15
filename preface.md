@@ -6,5 +6,8 @@ I never planned for this to become a series. It grew because people kept telling
 
 The advice comes from my own path: from Mexico to a PhD in the United States, a postdoc and research at a national laboratory, and a faculty career. None of it is a rule. Use what helps, ignore what doesn't, and find your own way. Above all, I hope this book reminds you that you're not alone and that doing science should be fun.
 
+This book is dedicated to all my mentees and mentors, who have made me a better person and scientist. 
+
 *Victor M. Zavala*
+
 *Madison, Wisconsin*
