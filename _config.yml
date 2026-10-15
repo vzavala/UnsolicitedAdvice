@@ -15,7 +15,7 @@ parse:
     - linkify
 
 repository:
-  url: https://github.com/vzavala/AdviceGitBook
+  url: https://github.com/vzavala/UnsolicitedAdvice
   branch: main
 
 html:
