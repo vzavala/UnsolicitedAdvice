@@ -15,7 +15,7 @@ parse:
     - linkify
 
 repository:
-  url: https://github.com/YOUR-GITHUB-USERNAME/AdviceGitBook
+  url: https://github.com/vzavala/AdviceGitBook
   branch: main
 
 html:
