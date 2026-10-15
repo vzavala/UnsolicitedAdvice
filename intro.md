@@ -6,9 +6,9 @@
 
 ---
 
-Between 2022 and 2026, I wrote a series of short LinkedIn posts that all began the same way: *"Unsolicited advice for young scientists…"* They're the things I wish someone had told me when I was starting out, especially when I was struggling. Many seem basic, but they can make a big difference early in a career.
+I write a series of LinkedIn posts under the running title: *"Unsolicited advice for young scientists…"* These are the things I wish someone had told me along my journey as a scientist, especially when I was struggling. Many of these pieces of advice seem basic, but they can make a big difference.
 
-This book collects all 82 posts and groups them by theme instead of by date. Each part opens with its key takeaways, followed by the original posts.
+This book collects all my posts and groups them by theme. Each part opens with its key takeaways, followed by the original posts.
 
 ## What's inside
 
