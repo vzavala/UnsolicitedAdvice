@@ -1,6 +1,6 @@
 # About the Series
 
-The "Unsolicited advice" series ran on LinkedIn from **November 27, 2022** to **September 23, 2026**: 82 posts over almost four years, or about one every two to three weeks. Every post carries the hashtag #phdresearch.
+The book includes posts from **November 27, 2022** to **September 23, 2026**: 82 posts over almost four years, or about one every two to three weeks. Every post carries the hashtag #phdresearch.
 
 | | |
 |---|---|
