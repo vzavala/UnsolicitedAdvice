@@ -8,22 +8,22 @@
 
 I write a series of LinkedIn posts under the running title: *"Unsolicited advice for young scientists…"* These are the things I wish someone had told me along my journey as a scientist, especially when I was struggling. Many of these pieces of advice seem basic, but they can make a big difference.
 
-This book collects all my posts and groups them by theme. Each part opens with its key takeaways, followed by the original posts.
+This book collects all my posts and groups them by theme: the 87 posts of the series, plus 47 other posts with advice for students and faculty (listed under "More advice" in each part). Each part opens with its key takeaways, followed by the original posts.
 
 ## What's inside
 
-| Part | Theme | Posts |
-|---|---|---|
-| 1 | [Well-Being and Mental Health](01-well-being/index.md) | 6 |
-| 2 | [Mindset, Confidence and Resilience](02-mindset/index.md) | 7 |
-| 3 | [Choosing Problems and Generating Ideas](03-problems-and-ideas/index.md) | 10 |
-| 4 | [Communicating Science](04-communication/index.md) | 8 |
-| 5 | [Writing Papers and Proposals](05-writing/index.md) | 8 |
-| 6 | [Productivity and Organization](06-productivity/index.md) | 5 |
-| 7 | [Mentors, Networks and Working with People](07-people/index.md) | 7 |
-| 8 | [Career Development](08-career/index.md) | 8 |
-| 9 | [Computational and Mathematical Research](09-computational/index.md) | 11 |
-| 10 | [For Young Faculty](10-faculty/index.md) | 12 |
+| Part | Theme | Series posts | More advice |
+|---|---|---|---|
+| 1 | [Well-Being and Mental Health](01-well-being/index.md) | 6 | 4 |
+| 2 | [Mindset, Confidence and Resilience](02-mindset/index.md) | 9 | 7 |
+| 3 | [Choosing Problems and Generating Ideas](03-problems-and-ideas/index.md) | 10 | 2 |
+| 4 | [Communicating Science](04-communication/index.md) | 10 | 3 |
+| 5 | [Writing Papers and Proposals](05-writing/index.md) | 8 | 4 |
+| 6 | [Productivity and Organization](06-productivity/index.md) | 5 | 2 |
+| 7 | [Mentors, Networks and Working with People](07-people/index.md) | 8 | 6 |
+| 8 | [Career Development](08-career/index.md) | 8 | 2 |
+| 9 | [Computational and Mathematical Research](09-computational/index.md) | 11 | 5 |
+| 10 | [For Young Faculty](10-faculty/index.md) | 12 | 12 |
 
 The appendices include [self-check lists](checklists.md) for students and faculty, and [some background on the series](about-the-series.md).
 

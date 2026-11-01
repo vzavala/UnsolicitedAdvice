@@ -17,6 +17,10 @@ parts:
           - file: 01-well-being/04-three-things-i-wish-id-known-when-starting-my-phd
           - file: 01-well-being/05-depression-is-common-and-help-works
           - file: 01-well-being/06-escape-the-i-need-to-mindset-make-time-to-play
+          - file: 01-well-being/07-take-short-naps
+          - file: 01-well-being/08-the-let-down-effect-anxiety-after-stress
+          - file: 01-well-being/09-running-as-a-way-to-manage-anxiety
+          - file: 01-well-being/10-the-runners-high-and-clear-thinking
   - caption: "Part 2: Mindset, Confidence and Resilience"
     chapters:
       - file: 02-mindset/index
@@ -29,6 +33,15 @@ parts:
           - file: 02-mindset/05-great-ideas-often-meet-resistance
           - file: 02-mindset/06-advocate-for-your-ideas-but-stay-humble
           - file: 02-mindset/07-use-what-science-teaches-you-to-navigate-life
+          - file: 02-mindset/08-points-games-and-sets-lessons-from-agassi
+          - file: 02-mindset/09-impostor-syndrome-is-normal
+          - file: 02-mindset/10-education-is-a-gym-for-the-mind
+          - file: 02-mindset/11-enjoy-the-journey-not-just-the-outcome
+          - file: 02-mindset/12-you-try-you-fail-you-try-again
+          - file: 02-mindset/13-lessons-from-federer-on-resilience
+          - file: 02-mindset/14-confidence-is-built-not-innate
+          - file: 02-mindset/15-embrace-your-naivete
+          - file: 02-mindset/16-learning-to-cope-with-criticism
   - caption: "Part 3: Choosing Problems and Generating Ideas"
     chapters:
       - file: 03-problems-and-ideas/index
@@ -44,6 +57,8 @@ parts:
           - file: 03-problems-and-ideas/08-find-inspiration-in-simple-places
           - file: 03-problems-and-ideas/09-connect-with-seemingly-unrelated-fields
           - file: 03-problems-and-ideas/10-write-down-your-ideas-and-let-them-mature
+          - file: 03-problems-and-ideas/11-your-specialty-can-be-building-bridges
+          - file: 03-problems-and-ideas/12-the-four-elements-of-research
   - caption: "Part 4: Communicating Science"
     chapters:
       - file: 04-communication/index
@@ -57,6 +72,11 @@ parts:
           - file: 04-communication/06-language-matters-know-your-audience
           - file: 04-communication/07-make-it-relatable-the-ice-cream-lesson
           - file: 04-communication/08-be-an-open-and-confident-communicator
+          - file: 04-communication/09-write-a-script-for-your-first-talks
+          - file: 04-communication/10-talks-should-change-how-people-think
+          - file: 04-communication/11-put-acknowledgments-first
+          - file: 04-communication/12-include-a-personal-intro-slide
+          - file: 04-communication/13-a-poster-without-the-poster-tube
   - caption: "Part 5: Writing Papers and Proposals"
     chapters:
       - file: 05-writing/index
@@ -70,6 +90,10 @@ parts:
           - file: 05-writing/06-not-every-paper-has-to-be-a-home-run
           - file: 05-writing/07-being-correct-matters-more-than-being-first
           - file: 05-writing/08-writing-proposals-for-multidisciplinary-panels
+          - file: 05-writing/09-in-the-era-of-ai-the-process-matters
+          - file: 05-writing/10-sketch-an-outline-before-you-write
+          - file: 05-writing/11-resources-for-becoming-a-good-reviewer
+          - file: 05-writing/12-be-thorough-but-efficient-as-a-reviewer
   - caption: "Part 6: Productivity and Organization"
     chapters:
       - file: 06-productivity/index
@@ -80,6 +104,8 @@ parts:
           - file: 06-productivity/03-take-good-meeting-notes
           - file: 06-productivity/04-treat-your-research-products-as-investments
           - file: 06-productivity/05-be-patient-projects-grow-in-phases
+          - file: 06-productivity/06-learn-to-say-no
+          - file: 06-productivity/07-plan-your-day-in-time-slots
   - caption: "Part 7: Mentors, Networks and Working with People"
     chapters:
       - file: 07-people/index
@@ -92,6 +118,13 @@ parts:
           - file: 07-people/05-dont-neglect-the-social-side-of-science
           - file: 07-people/06-learn-from-other-cultures
           - file: 07-people/07-ask-people-about-their-career-paths
+          - file: 07-people/08-do-your-homework-before-a-visit
+          - file: 07-people/09-mentoring-is-built-on-mutual-trust
+          - file: 07-people/10-conferences-for-introverts
+          - file: 07-people/11-norms-for-productive-group-discussions
+          - file: 07-people/12-what-should-you-call-your-professor
+          - file: 07-people/13-college-is-also-about-networks
+          - file: 07-people/14-if-you-want-it-to-happen-start-it-yourself
   - caption: "Part 8: Career Development"
     chapters:
       - file: 08-career/index
@@ -105,6 +138,8 @@ parts:
           - file: 08-career/06-what-do-you-want-to-be-known-for
           - file: 08-career/07-there-are-many-career-paths
           - file: 08-career/08-understand-the-scientific-enterprise
+          - file: 08-career/09-what-makes-the-phd-so-challenging
+          - file: 08-career/10-becoming-an-independent-researcher
   - caption: "Part 9: Computational and Mathematical Research"
     chapters:
       - file: 09-computational/index
@@ -121,6 +156,11 @@ parts:
           - file: 09-computational/09-learn-several-programming-languages
           - file: 09-computational/10-you-dont-have-to-be-amazing-at-coding-or-math
           - file: 09-computational/11-algorithms-for-everyday-life
+          - file: 09-computational/12-complexity-vs-insight-in-optimization-models
+          - file: 09-computational/13-impact-doesnt-have-to-mean-commercialization
+          - file: 09-computational/14-getting-started-in-data-science-and-machine-learning
+          - file: 09-computational/15-share-your-data-and-code
+          - file: 09-computational/16-math-teaches-you-how-to-learn
   - caption: "Part 10: For Young Faculty"
     chapters:
       - file: 10-faculty/index
@@ -138,6 +178,18 @@ parts:
           - file: 10-faculty/10-where-to-find-research-problems
           - file: 10-faculty/11-write-proposals-for-the-ideas-not-the-money
           - file: 10-faculty/12-organize-events
+          - file: 10-faculty/13-teach-students-to-handle-ill-defined-problems
+          - file: 10-faculty/14-balancing-commitments-as-a-professor
+          - file: 10-faculty/15-what-goes-into-designing-a-course
+          - file: 10-faculty/16-build-a-research-program-around-a-core
+          - file: 10-faculty/17-help-mentees-discover-their-strengths
+          - file: 10-faculty/18-mentoring-is-an-emotional-investment
+          - file: 10-faculty/19-professors-need-some-psychology
+          - file: 10-faculty/20-the-best-mentors-genuinely-care
+          - file: 10-faculty/21-why-research-mentoring-matters
+          - file: 10-faculty/22-take-your-role-as-a-mentor-seriously
+          - file: 10-faculty/23-designing-problems-for-your-courses
+          - file: 10-faculty/24-systems-thinking-in-mentoring
   - caption: Appendices
     chapters:
       - file: checklists

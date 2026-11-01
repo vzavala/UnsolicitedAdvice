@@ -9,11 +9,20 @@ Science is one of the most intellectually demanding jobs there is, and your brai
 - Mental health problems are common in science. Notice them, talk about them, and ask for help early.
 - Make time to play with ideas, free of deadlines.
 
-## In this part
+## Unsolicited advice
 
-1. [Your Brain Is Your Most Important Tool](01-your-brain-is-your-most-important-tool.md)
-2. [Protect Your Brain](02-protect-your-brain.md)
-3. [Don't Work When You're Tired](03-dont-work-when-youre-tired.md)
-4. [Three Things I Wish I'd Known When Starting My PhD](04-three-things-i-wish-id-known-when-starting-my-phd.md)
-5. [Depression Is Common, and Help Works](05-depression-is-common-and-help-works.md)
-6. [Escape the "I Need To" Mindset: Make Time to Play](06-escape-the-i-need-to-mindset-make-time-to-play.md)
+- [Your Brain Is Your Most Important Tool](01-your-brain-is-your-most-important-tool.md)
+- [Protect Your Brain](02-protect-your-brain.md)
+- [Don't Work When You're Tired](03-dont-work-when-youre-tired.md)
+- [Three Things I Wish I'd Known When Starting My PhD](04-three-things-i-wish-id-known-when-starting-my-phd.md)
+- [Depression Is Common, and Help Works](05-depression-is-common-and-help-works.md)
+- [Escape the "I Need To" Mindset: Make Time to Play](06-escape-the-i-need-to-mindset-make-time-to-play.md)
+
+## More advice
+
+Related posts that aren't part of the series.
+
+- [Take Short Naps](07-take-short-naps.md)
+- [The Let-Down Effect: Anxiety After Stress](08-the-let-down-effect-anxiety-after-stress.md)
+- [Running as a Way to Manage Anxiety](09-running-as-a-way-to-manage-anxiety.md)
+- [The Runner's High and Clear Thinking](10-the-runners-high-and-clear-thinking.md)

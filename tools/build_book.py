@@ -1,5 +1,9 @@
-"""Generate the Jupyter Book pages and _toc.yml from unsolicited-advice-posts.md."""
-import os, re, sys, shutil
+"""Generate the Jupyter Book pages and _toc.yml from the post files in source/.
+
+Usage: python tools/build_book.py source/unsolicited-advice-posts.md .
+(source/more-advice-posts.md is read from the same folder.)
+"""
+import os, re, sys, shutil, unicodedata
 
 SRC, OUT = sys.argv[1], sys.argv[2]
 
@@ -155,24 +159,111 @@ def nice(d):
     return f"{MONTHS[int(m)-1]} {int(dd)}, {y}"
 
 def slug(s):
+    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
     return re.sub(r"[^a-z0-9]+", "-", s.lower().replace("'", "")).strip("-")
 
-# Parse posts
-text = open(SRC, encoding="utf-8").read().split("## Related posts")[0].split("## Series posts")[1]
-posts = {}
-for b in re.split(r"\n(?=### \d+\. )", text)[1:]:
-    date = re.search(r"\*\*Date:\*\* (\S+)", b).group(1)
-    url = re.search(r"\*\*URL:\*\* (\S+)", b).group(1)
-    lines = [l[2:] if l.startswith("> ") else "" for l in b.split("\n") if l.startswith(">")]
-    opener = lines[0].strip().rstrip(":.").strip()
-    body = "\n".join(lines[1:])
-    body = re.sub(r"(?m)^\s*(#\w+\s*)+$", "", body)  # drop hashtag-only lines
-    body = re.sub(r"\n{3,}", "\n\n", body).strip()
-    posts[date] = dict(date=date, url=url, opener=opener, body=body)
+# Series posts added after the first edition, keyed by activity id, appended at the end of their part
+# so that existing page file names (and links to them) stay the same.
+LATER_SERIES = {
+    "7520918347140677632": ("04-communication", "Write a Script for Your First Talks"),
+    "7514016891074703360": ("02-mindset", "Points, Games and Sets: Lessons from Agassi"),
+    "7447311638858469378": ("04-communication", "Talks Should Change How People Think"),
+    "7423400271776735232": ("07-people", "Do Your Homework Before a Visit"),
+    "7316073485850628099": ("02-mindset", "Impostor Syndrome Is Normal"),
+}
 
-assigned = [d for _, _, _, _, items in CHAPTERS for d, _ in items]
-assert len(assigned) == len(set(assigned)) == len(posts) == 82, (len(assigned), len(set(assigned)), len(posts))
-assert set(assigned) == set(posts)
+# Posts that aren't in the series but give advice to students or faculty: activity id -> (part, title)
+MORE = {
+    "7467222622519529473": ("01-well-being", "The Let-Down Effect: Anxiety After Stress"),
+    "7464792802758070274": ("01-well-being", "Running as a Way to Manage Anxiety"),
+    "7354929061493686275": ("01-well-being", "The Runner's High and Clear Thinking"),
+    "7495937526373732352": ("01-well-being", "Take Short Naps"),
+    "7339645221036617729": ("02-mindset", "Lessons from Federer on Resilience"),
+    "7431001512870330368": ("02-mindset", "Enjoy the Journey, Not Just the Outcome"),
+    "7411772897205186560": ("02-mindset", "You Try, You Fail, You Try Again"),
+    "7319704543296962560": ("02-mindset", "Confidence Is Built, Not Innate"),
+    "7058247665305731073": ("02-mindset", "Learning to Cope with Criticism"),
+    "7131279902368034817": ("02-mindset", "Embrace Your Naïveté"),
+    "7510382342465830912": ("02-mindset", "Education Is a Gym for the Mind"),
+    "7321310403261566980": ("03-problems-and-ideas", "The Four Elements of Research"),
+    "7353145593147346945": ("03-problems-and-ideas", "Your Specialty Can Be Building Bridges"),
+    "7398459084255064065": ("04-communication", "Include a Personal Intro Slide"),
+    "7447643028393058304": ("04-communication", "Put Acknowledgments First"),
+    "7345252587606069250": ("04-communication", "A Poster Without the Poster Tube"),
+    "7368295272369569793": ("05-writing", "Sketch an Outline Before You Write"),
+    "7515417138354982913": ("05-writing", "In the Era of AI, the Process Matters"),
+    "7354257991166038017": ("05-writing", "Resources for Becoming a Good Reviewer"),
+    "7350815291565617156": ("05-writing", "Be Thorough but Efficient as a Reviewer"),
+    "7361732482649509888": ("06-productivity", "Plan Your Day in Time Slots"),
+    "7487872426744115201": ("06-productivity", "Learn to Say No"),
+    "7440854052868915200": ("07-people", "Mentoring Is Built on Mutual Trust"),
+    "7392734441485459456": ("07-people", "Conferences for Introverts"),
+    "7368774556330725376": ("07-people", "What Should You Call Your Professor?"),
+    "7365037444573880320": ("07-people", "College Is Also About Networks"),
+    "7386386719333539840": ("07-people", "Norms for Productive Group Discussions"),
+    "7308848760871170048": ("07-people", "If You Want It to Happen, Start It Yourself"),
+    "7400211402973696000": ("08-career", "What Makes the PhD So Challenging"),
+    "7330751623771643904": ("08-career", "Becoming an Independent Researcher"),
+    "7402342389698527232": ("09-computational", "Complexity vs. Insight in Optimization Models"),
+    "7345432474736279552": ("09-computational", "Getting Started in Data Science and Machine Learning"),
+    "7341520184827924481": ("09-computational", "Share Your Data and Code"),
+    "7384937752498397184": ("09-computational", "Impact Doesn't Have to Mean Commercialization"),
+    "7290719210417111040": ("09-computational", "Math Teaches You How to Learn"),
+    "7430427919543468032": ("10-faculty", "Teach Students to Handle Ill-Defined Problems"),
+    "7404530198710530048": ("10-faculty", "Balancing Commitments as a Professor"),
+    "7345787713700143104": ("10-faculty", "Build a Research Program Around a Core"),
+    "7388310211377315840": ("10-faculty", "What Goes into Designing a Course"),
+    "7165149441627242496": ("10-faculty", "Designing Problems for Your Courses"),
+    "7342303069273001985": ("10-faculty", "Help Mentees Discover Their Strengths"),
+    "7335050741960626176": ("10-faculty", "Mentoring Is an Emotional Investment"),
+    "7310483254921347072": ("10-faculty", "The Best Mentors Genuinely Care"),
+    "7312505458143940608": ("10-faculty", "Professors Need Some Psychology"),
+    "7157009541925105665": ("10-faculty", "Systems Thinking in Mentoring"),
+    "7193234773555752960": ("10-faculty", "Why Research Mentoring Matters"),
+    "7176563527942303745": ("10-faculty", "Take Your Role as a Mentor Seriously"),
+}
+
+
+def parse(path, section):
+    text = open(path, encoding="utf-8").read().split("## Related posts")[0].split(section)[1]
+    out = []
+    for b in re.split(r"\n(?=### \d+\. )", text)[1:]:
+        date = re.search(r"\*\*Date:\*\* (\S+)", b).group(1)
+        url = re.search(r"\*\*URL:\*\* (\S+)", b).group(1)
+        aid = re.search(r"activity:(\d+)", url).group(1)
+        lines = [l[2:] if l.startswith("> ") else "" for l in b.split("\n") if l.startswith(">")]
+        has_image = "isn't reproduced here" in b.split("\n>")[0]
+        out.append(dict(date=date, url=url, id=aid, lines=lines, has_image=has_image))
+    return out
+
+def clean(lines):
+    body = "\n".join(lines)
+    body = re.sub(r"(?m)^\s*(#\w+\s*)+$", "", body)  # drop hashtag-only lines
+    return re.sub(r"\n{3,}", "\n\n", body).strip()
+
+series = {}
+for p in parse(SRC, "## Series posts"):
+    p["opener"] = p["lines"][0].strip().rstrip(":.").strip()
+    p["body"] = clean(p["lines"][1:])
+    p["series"] = True
+    series[p["id"]] = p
+more = {}
+for p in parse(os.path.join(os.path.dirname(SRC), "more-advice-posts.md"), "## Posts"):
+    p["body"] = clean(p["lines"])
+    p["series"] = False
+    more[p["id"]] = p
+by_date = {p["date"]: p for p in series.values() if p["id"] not in LATER_SERIES}
+
+# Resolve every part's entries: original series posts (by date), later series posts, then more advice.
+parts = []
+for cdir, ctitle, intro, takeaways, items in CHAPTERS:
+    entries = [(by_date[d], t) for d, t in items]
+    entries += [(series[i], t) for i, (c, t) in LATER_SERIES.items() if c == cdir]
+    entries += [(more[i], t) for i, (c, t) in sorted(MORE.items(), key=lambda kv: -int(kv[0])) if c == cdir]
+    parts.append((cdir, ctitle, intro, takeaways, entries))
+
+used = [p["id"] for *_, entries in parts for p, _ in entries]
+assert len(used) == len(set(used)) == len(series) + len(more), (len(used), len(set(used)), len(series), len(more))
 
 if os.path.exists(OUT):
     for name in os.listdir(OUT):
@@ -182,28 +273,33 @@ os.makedirs(OUT, exist_ok=True)
 
 toc_yml = ["# Table of contents (generated by tools/build_book.py)", "format: jb-book", "root: intro", "parts:",
            "  - caption: Getting Started", "    chapters:", "      - file: preface", "      - file: how-to-use"]
-for cdir, ctitle, intro, takeaways, items in CHAPTERS:
+for cdir, ctitle, intro, takeaways, entries in parts:
     os.makedirs(os.path.join(OUT, cdir), exist_ok=True)
     num = int(cdir[:2])
     toc_yml += [f'  - caption: "Part {num}: {ctitle}"', "    chapters:", f"      - file: {cdir}/index", "        title: Overview", "        sections:"]
-    toc = []
-    for i, (d, title) in enumerate(items, 1):
-        p = posts[d]
+    toc_series, toc_more = [], []
+    for i, (p, title) in enumerate(entries, 1):
         fname = f"{i:02d}-{slug(title)}.md"
-        toc.append(f"{i}. [{title}]({fname})")
+        (toc_series if p["series"] else toc_more).append(f"- [{title}]({fname})")
         toc_yml.append(f"          - file: {cdir}/{fname[:-3]}")
-        audience = re.sub(r"(?i)^unsolicited advice for ", "", p["opener"])
-        page = [f"# {title}", "",
-                f"> *Unsolicited advice for {audience}.* Posted on LinkedIn on [{nice(d)}]({p['url']}).", "",
-                p["body"], ""]
-        if d == "2023-12-22":
+        if p["series"]:
+            audience = re.sub(r"(?i)^unsolicited advice for ", "", p["opener"])
+            label = f"*Unsolicited advice for {audience}.*"
+        else:
+            label = "*More advice (not part of the series).*"
+        page = [f"# {title}", "", f"> {label} Posted on LinkedIn on [{nice(p['date'])}]({p['url']}).", "", p["body"], ""]
+        if p["date"] == "2023-12-22" and p["series"]:
             page += [":::{note}", "The original post included a multigrid diagram, which isn't reproduced here. See the LinkedIn post for the figure.", ":::", ""]
+        elif p["has_image"]:
+            page += [":::{note}", "The original post included an image, which isn't reproduced here. See the LinkedIn post for it.", ":::", ""]
         open(os.path.join(OUT, cdir, fname), "w", encoding="utf-8").write("\n".join(page))
     ch = [f"# Part {num}: {ctitle}", "", intro, "", "## Key takeaways", ""]
     ch += [f"- {t}" for t in takeaways]
-    ch += ["", "## In this part", ""] + toc + [""]
-    open(os.path.join(OUT, cdir, "index.md"), "w", encoding="utf-8").write("\n".join(ch))
+    ch += ["", "## Unsolicited advice", ""] + toc_series
+    if toc_more:
+        ch += ["", "## More advice", "", "Related posts that aren't part of the series.", ""] + toc_more
+    open(os.path.join(OUT, cdir, "index.md"), "w", encoding="utf-8").write("\n".join(ch + [""]))
 
 toc_yml += ["  - caption: Appendices", "    chapters:", "      - file: checklists", "      - file: about-the-series", ""]
 open(os.path.join(OUT, "_toc.yml"), "w", encoding="utf-8").write("\n".join(toc_yml))
-print("posts", len(posts), "chapters", len(CHAPTERS))
+print("series", len(series), "more", len(more), "parts", len(parts))

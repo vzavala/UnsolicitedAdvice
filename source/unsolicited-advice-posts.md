@@ -1,10 +1,10 @@
 # Victor M. Zavala — "Unsolicited advice" LinkedIn posts
 
-Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vzavala/recent-activity/all/, with a second pass on 2026-10-15 through saved items at https://www.linkedin.com/my-items/saved-posts/ (both read-only).
+Collected on 2026-10-14 and updated on 2026-11-01 from the activity feed at https://www.linkedin.com/in/vzavala/recent-activity/all/, with a second pass on 2026-10-15 through saved items at https://www.linkedin.com/my-items/saved-posts/ (both read-only).
 
 **Summary**
 
-- **82 series posts.** These are Victor's own posts that open with "Unsolicited advice for young scientists / faculty / professors…". They run from 2022-11-27 to 2026-09-23. 30 of them came only from your saved items and are marked "Source: Saved items".
+- **87 series posts.** These are Victor's own posts that open with "Unsolicited advice for young scientists / faculty / professors…". They run from 2022-11-27 to 2026-10-27. 30 of them came only from your saved items and are marked "Source: Saved items".
 - **3 related posts.** These are Victor's own posts that mention the series ("unsolicited advice") but aren't entries in it.
 - Everything is listed newest first within each section.
 
@@ -18,9 +18,51 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 
 ---
 
-## Series posts (82)
+## Series posts (87)
 
-### 1. 2026-09-23 — Unsolicited advice for young scientists:
+### 1. 2026-10-27 — Unsolicited advice for young scientists:
+
+- **Date:** 2026-10-27 (18:44 UTC)
+- **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7520918347140677632/
+- **Images/attachments:** None (text only)
+
+> Unsolicited advice for young scientists:
+>
+> For the first set of presentations of your career, I recommend that you write down *in detail* what you are planning to say. Almost as if it was a movie script. This sounds tedious but has several benefits:
+>
+> - It helps you structure your thoughts and helps you visualize the structure of your narrative. 
+>
+> - It helps you connect the ideas inside slides and across slides of your presentation. In other words, it will help you see the small and big picture. 
+>
+> - It helps you spot redundancies and non-essential material. 
+>
+> - It helps you get an idea of how much content you can actually cover in a certain amount of time, which is important to pace yourself. You will be surprised to see how little you can cover in 1 minute if you are speaking slowly. 
+>
+> - It helps you identify key times to highlight key messages. 
+>
+> Early in your career, you are not ready yet to improvise in real-time. As a result, when nervous, you will tend to say things that you do not want to say or go into repetitive loops. I often see this mistake at conferences. This is particularly important for non-native English speakers.  It is important to think about structure carefully the first few times you present; over time you will get experience and spot patterns more easily without a script.  
+>
+> Once you have your script, it is about practice, practice, practice. This will help you gain confidence, reduce anxiety, track your voice/intonation, track your pace, and spot arguments that look easy on paper but that are hard to explain verbally.
+>
+> #phdresearch
+
+### 2. 2026-10-08 — Unsolicited advice for young scientists:
+
+- **Date:** 2026-10-08 (17:40 UTC)
+- **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7514016891074703360/
+- **Images/attachments:** None (text only)
+
+> Unsolicited advice for young scientists:
+>
+> I am really enjoying reading the autobiography of Andre Agassi and I like the way he frames a tennis match as a hierarchical system. 
+>
+> He mentions that the scoring system in tennis is hierarchical... points make games, games make sets, sets make a match. He explains that this forces you to strategically allocate your energy in each point/game/set... not every point can be a win (no matter how good you are), because of many random effects. As a result, you try your best in every point and move on,  regardless of the outcome. You cannot afford to think negatively, there is no time for that. Some of the "failed" points are in fact used strategically to rest, refocus, and recover energy. As the game progresses, patterns will emerge, despite the random effects. 
+>
+> I feel similarly about research; you will have failed experiments, failed papers/proposals, difficult years. But you keep trying, you fail, you win, and move on. Don't let the negative outcomes drag you, you have a bigger goal to pursue (e.g., your thesis). Use the negative outcomes as opportunities to learn and refocus. Over time you will see a clear trend, just be patient. Also, manage your energy wisely, you cannot invest all your energy in a single task, or you will burn out.
+>
+> #phdresearch
+
+### 3. 2026-09-23 — Unsolicited advice for young scientists:
 
 - **Date:** 2026-09-23 (14:40 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7508535699516829699/
@@ -38,7 +80,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 2. 2026-07-06 — Unsolicited advice for young faculty:
+### 4. 2026-07-06 — Unsolicited advice for young faculty:
 
 - **Date:** 2026-07-06 (15:51 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7479924879387992064/
@@ -53,7 +95,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 3. 2026-06-28 — Unsolicited advice for young scientists:
+### 5. 2026-06-28 — Unsolicited advice for young scientists:
 
 - **Date:** 2026-06-28 (15:39 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7477022988173778944/
@@ -72,7 +114,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 4. 2026-05-15 — Unsolicited advice for young scientists:
+### 6. 2026-05-15 — Unsolicited advice for young scientists:
 
 - **Date:** 2026-05-15 (15:59 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7461082744924770305/
@@ -89,7 +131,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 5. 2026-04-19 — Unsolicited advice for young scientists:
+### 7. 2026-04-19 — Unsolicited advice for young scientists:
 
 - **Date:** 2026-04-19 (02:16 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7451453557406334976/
@@ -110,7 +152,23 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 6. 2026-03-23 — Unsolicited advice for young faculty:
+### 8. 2026-04-07 — Unsolicited advice for young scientists:
+
+- **Date:** 2026-04-07 (15:57 UTC)
+- **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7447311638858469378/
+- **Images/attachments:** None (text only)
+
+> Unsolicited advice for young scientists: 
+>
+> As an academic, one of my main goals when I give a lecture/talk/seminar is to try to *change the way people think.*  You want people coming out of that talk seeing the world differently or thinking about a subject differently.
+>
+> Changing the way people think is challenging, almost by definition. You need to be strategic about how information is presented, you need to be tutorial and walk people slowly through the concepts, and you need to clearly convey the impact/benefits of this new alternative way of thinking. 
+>
+> Education and communication are ultimately about creating a new reality for people. It is about giving people tools to find new problems/questions to work on and to approach problems/questions from new angles.
+>
+> #phdresearch
+
+### 9. 2026-03-23 — Unsolicited advice for young faculty:
 
 - **Date:** 2026-03-23 (23:40 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7441992346788904960/
@@ -125,7 +183,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 7. 2026-03-10 — Unsolicited advice for young scientists:
+### 10. 2026-03-10 — Unsolicited advice for young scientists:
 
 - **Date:** 2026-03-10 (14:15 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7437139123842342912/
@@ -142,7 +200,25 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 8. 2026-01-07 — Unsolicited advice for young scientists:
+### 11. 2026-01-31 — Unsolicited advice for young scientists:
+
+- **Date:** 2026-01-31 (16:22 UTC)
+- **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7423400271776735232/
+- **Images/attachments:** None (text only)
+
+> Unsolicited advice for young scientists:
+>
+> When you are visiting a university/lab/company (either to give a seminar, to interview, or even if just visiting), it is important to "do your homework."
+>
+> Every visit is a huge opportunity to learn and to enrich your perspectives. Try to dig into the profiles of faculty/scientists, learn about their research facilities, learn about the history of the place, and so on.  This will give you a better perspective of the unique strengths of the institution, can give you ideas on how to tailor your discussions with people, and can help you tailor the message of your seminars.
+>
+> When you are visiting a place, people appreciate it when you have an idea (even if high level) of what they are working on and appreciate it when you know a bit about the history/activities of the institution. This is particularly important when you are interviewing at a place. 
+>
+> Every time I visit an institution, I do a quick exploration of the research taking place there and of cool/interesting facts of the institution; I feel this helps me enrich my visits. As an introvert, this also helps me get ready for my conversations :)
+>
+> #phdresearch
+
+### 12. 2026-01-07 — Unsolicited advice for young scientists:
 
 - **Date:** 2026-01-07 (21:15 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7414776725727002624/
@@ -159,7 +235,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 9. 2026-01-02 — Unsolicited advice for young scientists:
+### 13. 2026-01-02 — Unsolicited advice for young scientists:
 
 - **Date:** 2026-01-02 (19:36 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7412939914943823872/
@@ -178,7 +254,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 10. 2025-12-26 — Unsolicited advice for young scientists:
+### 14. 2025-12-26 — Unsolicited advice for young scientists:
 
 - **Date:** 2025-12-26 (16:17 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7410353066903830528/
@@ -195,7 +271,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 11. 2025-12-17 — Unsolicited advice for young scientists:
+### 15. 2025-12-17 — Unsolicited advice for young scientists:
 
 - **Date:** 2025-12-17 (13:28 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7407048960240107521/
@@ -220,7 +296,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 12. 2025-12-02 — Unsolicited advice for young scientists:
+### 16. 2025-12-02 — Unsolicited advice for young scientists:
 
 - **Date:** 2025-12-02 (14:55 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7401635042026037248/
@@ -237,7 +313,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 13. 2025-11-18 — Unsolicited advice for young scientists:
+### 17. 2025-11-18 — Unsolicited advice for young scientists:
 
 - **Date:** 2025-11-18 (16:54 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7396591753069416448/
@@ -254,7 +330,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 14. 2025-11-13 — Unsolicited advice for young scientists:
+### 18. 2025-11-13 — Unsolicited advice for young scientists:
 
 - **Date:** 2025-11-13 (22:48 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7394868844713959424/
@@ -273,7 +349,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 15. 2025-10-09 — Unsolicited advice for young scientists:
+### 19. 2025-10-09 — Unsolicited advice for young scientists:
 
 - **Date:** 2025-10-09 (20:43 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7382153851707215872/
@@ -292,7 +368,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 16. 2025-09-05 — Unsolicited advice for young scientists doing math/computation researc…
+### 20. 2025-09-05 — Unsolicited advice for young scientists doing math/computation researc…
 
 - **Date:** 2025-09-05 (12:10 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7369703578841600008/
@@ -316,7 +392,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #pdresearch 
 > #math
 
-### 17. 2025-08-27 — Unsolicited advice for young professors:
+### 21. 2025-08-27 — Unsolicited advice for young professors:
 
 - **Date:** 2025-08-27 (13:02 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7366455028196233216/
@@ -331,7 +407,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch #academia
 
-### 18. 2025-08-19 — Unsolicited advice for young scientists:
+### 22. 2025-08-19 — Unsolicited advice for young scientists:
 
 - **Date:** 2025-08-19 (11:57 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7363539502956498945/
@@ -350,7 +426,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 19. 2025-08-03 — Unsolicited advice for young scientists:
+### 23. 2025-08-03 — Unsolicited advice for young scientists:
 
 - **Date:** 2025-08-03 (09:29 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7357704279874301952/
@@ -369,7 +445,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 20. 2025-07-30 — Unsolicited advice for young scientists:
+### 24. 2025-07-30 — Unsolicited advice for young scientists:
 
 - **Date:** 2025-07-30 (10:38 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7356271908037775360/
@@ -392,7 +468,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 21. 2025-07-11 — Unsolicited advice for young professors:
+### 25. 2025-07-11 — Unsolicited advice for young professors:
 
 - **Date:** 2025-07-11 (18:44 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7349508927132233728/
@@ -410,7 +486,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #phdresearch 
 > #academia
 
-### 22. 2025-06-05 — Unsolicited advice for young scientists:
+### 26. 2025-06-05 — Unsolicited advice for young scientists:
 
 - **Date:** 2025-06-05 (00:21 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7336185313733636096/
@@ -433,7 +509,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 23. 2025-05-26 — Unsolicited advice for young scientists:
+### 27. 2025-05-26 — Unsolicited advice for young scientists:
 
 - **Date:** 2025-05-26 (12:13 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7332740589060313088/
@@ -452,7 +528,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 24. 2025-05-13 — Unsolicited advice for young scientists:
+### 28. 2025-05-13 — Unsolicited advice for young scientists:
 
 - **Date:** 2025-05-13 (16:50 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7328099441033256962/
@@ -467,7 +543,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 25. 2025-05-09 — Unsolicited advice for young scientists:
+### 29. 2025-05-09 — Unsolicited advice for young scientists:
 
 - **Date:** 2025-05-09 (00:01 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7326395806909898752/
@@ -486,7 +562,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 26. 2025-04-29 — Unsolicited advice for young scientists:
+### 30. 2025-04-29 — Unsolicited advice for young scientists:
 
 - **Date:** 2025-04-29 (13:57 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7322982279566233602/
@@ -505,7 +581,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 27. 2025-04-18 — Unsolicited advice for young scientists:
+### 31. 2025-04-18 — Unsolicited advice for young scientists:
 
 - **Date:** 2025-04-18 (12:30 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7318974173219811328/
@@ -532,7 +608,25 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 28. 2025-04-04 — Unsolicited advice for young scientists:
+### 32. 2025-04-10 — Unsolicited advice for young scientists:
+
+- **Date:** 2025-04-10 (12:24 UTC)
+- **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7316073485850628099/
+- **Images/attachments:** None (text only)
+
+> Unsolicited advice for young scientists:
+>
+> Impostor syndrome is fairly common in scientific environments. 
+>
+> In my experience, the effects of impostor syndrome tend to magnify when one has a major achievement. For instance, when I graduated from my PhD I felt like a huge impostor (I felt that I did not deserve such recognition). When I received my first grant and when I got tenure as a professor I also felt like a huge impostor. To this day, I still experience these feelings from time to time (usually associated with some type of  recognition). 
+>
+> After experiencing these feelings for many years, I have developed mechanisms to try to mitigate their effects. For example, instead of trying to avoid feeling this way, I try to remind myself that these feelings are normal and to some extent healthy (as they help ground me). 
+>
+> I also think that it is important to openly talk about impostor syndrome; after talking to many students and faculty, I have realized that many of us feel similarly. This realization has helped me tremendously in normalizing and accepting these feelings.
+>
+> #phdresearch
+
+### 33. 2025-04-04 — Unsolicited advice for young scientists:
 
 - **Date:** 2025-04-04 (00:22 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7313717545696407552/
@@ -549,7 +643,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 29. 2025-03-23 — Unsolicited advice for young scientists:
+### 34. 2025-03-23 — Unsolicited advice for young scientists:
 
 - **Date:** 2025-03-23 (22:08 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7309697567372546048/
@@ -570,7 +664,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 30. 2025-03-15 — Unsolicited advice for young scientists:
+### 35. 2025-03-15 — Unsolicited advice for young scientists:
 
 - **Date:** 2025-03-15 (14:43 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7306686429638574080/
@@ -589,7 +683,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 31. 2025-03-10 — Unsolicited advice for young scientists:
+### 36. 2025-03-10 — Unsolicited advice for young scientists:
 
 - **Date:** 2025-03-10 (13:07 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7304850400275243008/
@@ -607,7 +701,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #phdresearch 
 > #academia
 
-### 32. 2025-03-02 — Unsolicited advice for young scientists:
+### 37. 2025-03-02 — Unsolicited advice for young scientists:
 
 - **Date:** 2025-03-02 (15:30 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7301987157676630016/
@@ -624,7 +718,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 33. 2025-02-22 — Unsolicited advice for young scientists.
+### 38. 2025-02-22 — Unsolicited advice for young scientists.
 
 - **Date:** 2025-02-22 (15:28 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7299087666808008706/
@@ -643,7 +737,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 34. 2025-02-15 — Unsolicited advice for young scientists.
+### 39. 2025-02-15 — Unsolicited advice for young scientists.
 
 - **Date:** 2025-02-15 (01:47 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7296344249174736896/
@@ -664,7 +758,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 35. 2025-02-02 — Unsolicited advice for young scientists doing computational research:
+### 40. 2025-02-02 — Unsolicited advice for young scientists doing computational research:
 
 - **Date:** 2025-02-02 (14:38 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7291827234682585088/
@@ -683,7 +777,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch #computation
 
-### 36. 2024-12-30 — Unsolicited advice for young scientists:
+### 41. 2024-12-30 — Unsolicited advice for young scientists:
 
 - **Date:** 2024-12-30 (13:52 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7279494643593949184/
@@ -700,7 +794,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 37. 2024-12-09 — Unsolicited advice for young faculty:
+### 42. 2024-12-09 — Unsolicited advice for young faculty:
 
 - **Date:** 2024-12-09 (15:17 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7271905889060577280/
@@ -718,7 +812,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #academia 
 > #phdresearch
 
-### 38. 2024-12-01 — Unsolicited advice for young scientists:
+### 43. 2024-12-01 — Unsolicited advice for young scientists:
 
 - **Date:** 2024-12-01 (14:36 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7268996351479209985/
@@ -740,7 +834,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #phdresearch 
 > #academia
 
-### 39. 2024-11-10 — Unsolicited advice for young scientists:
+### 44. 2024-11-10 — Unsolicited advice for young scientists:
 
 - **Date:** 2024-11-10 (21:08 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7261484772814671872/
@@ -762,7 +856,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #phdresearch 
 > #academia
 
-### 40. 2024-10-17 — Unsolicited advice for young scientists:
+### 45. 2024-10-17 — Unsolicited advice for young scientists:
 
 - **Date:** 2024-10-17 (16:53 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7252723428581879808/
@@ -781,7 +875,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 41. 2024-09-29 — Unsolicited advice for young scientists:
+### 46. 2024-09-29 — Unsolicited advice for young scientists:
 
 - **Date:** 2024-09-29 (13:33 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7246150107656544256/
@@ -802,7 +896,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #education 
 > #academia
 
-### 42. 2024-09-15 — Unsolicited advice for young scientists:
+### 47. 2024-09-15 — Unsolicited advice for young scientists:
 
 - **Date:** 2024-09-15 (01:14 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7240890579478306816/
@@ -825,7 +919,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 43. 2024-09-03 — Unsolicited advice for young scientists (particularly those starting t…
+### 48. 2024-09-03 — Unsolicited advice for young scientists (particularly those starting t…
 
 - **Date:** 2024-09-03 (00:38 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7236533047527890944/
@@ -844,7 +938,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch #science
 
-### 44. 2024-08-29 — Unsolicited advice for young scientists:
+### 49. 2024-08-29 — Unsolicited advice for young scientists:
 
 - **Date:** 2024-08-29 (01:46 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7234738258805415938/
@@ -863,7 +957,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch #academia #science
 
-### 45. 2024-08-22 — Unsolicited advice for young scientists:
+### 50. 2024-08-22 — Unsolicited advice for young scientists:
 
 - **Date:** 2024-08-22 (00:58 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7232189382114304000/
@@ -882,7 +976,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #science #phdresearch
 
-### 46. 2024-08-14 — Unsolicited advice for young scientists doing computational research.
+### 51. 2024-08-14 — Unsolicited advice for young scientists doing computational research.
 
 - **Date:** 2024-08-14 (18:05 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7229548741672808448/
@@ -909,7 +1003,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #computation 
 > #science
 
-### 47. 2024-07-31 — Unsolicited advice for young Faculty:
+### 52. 2024-07-31 — Unsolicited advice for young Faculty:
 
 - **Date:** 2024-07-31 (22:44 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7224545425532338177/
@@ -931,7 +1025,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #phdresearch 
 > #academia
 
-### 48. 2024-07-07 — Unsolicited advice for young scientists:
+### 53. 2024-07-07 — Unsolicited advice for young scientists:
 
 - **Date:** 2024-07-07 (16:09 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7215748873699438592/
@@ -950,7 +1044,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch #academia #science
 
-### 49. 2024-07-01 — Unsolicited advice for young scientists:
+### 54. 2024-07-01 — Unsolicited advice for young scientists:
 
 - **Date:** 2024-07-01 (15:00 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7213557114848337920/
@@ -970,7 +1064,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #phdresearch 
 > #science
 
-### 50. 2024-06-23 — Unsolicited advice for young scientists:
+### 55. 2024-06-23 — Unsolicited advice for young scientists:
 
 - **Date:** 2024-06-23 (14:56 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7210657045119660032/
@@ -989,7 +1083,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch #science
 
-### 51. 2024-06-10 — Unsolicited advice for young scientists:
+### 56. 2024-06-10 — Unsolicited advice for young scientists:
 
 - **Date:** 2024-06-10 (23:59 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7206082516229791744/
@@ -1015,7 +1109,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #phdresearch 
 > #science
 
-### 52. 2024-05-29 — Unsolicited advice for young scientists working on computational model…
+### 57. 2024-05-29 — Unsolicited advice for young scientists working on computational model…
 
 - **Date:** 2024-05-29 (15:23 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7201603997005197314/
@@ -1032,7 +1126,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch #computing
 
-### 53. 2024-05-15 — Unsolicited advice for young scientists doing computational modeling:
+### 58. 2024-05-15 — Unsolicited advice for young scientists doing computational modeling:
 
 - **Date:** 2024-05-15 (01:43 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7196324404492988416/
@@ -1052,7 +1146,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #phdresearch 
 > #computation
 
-### 54. 2024-05-02 — Unsolicited advice for young scientists:
+### 59. 2024-05-02 — Unsolicited advice for young scientists:
 
 - **Date:** 2024-05-02 (12:50 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7191781099356721153/
@@ -1077,7 +1171,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch #science
 
-### 55. 2024-04-16 — Unsolicited advice for young scientists doing computational research.
+### 60. 2024-04-16 — Unsolicited advice for young scientists doing computational research.
 
 - **Date:** 2024-04-16 (00:18 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7185793573873676291/
@@ -1092,7 +1186,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch #computation
 
-### 56. 2024-04-07 — Unsolicited advice for young scientists:
+### 61. 2024-04-07 — Unsolicited advice for young scientists:
 
 - **Date:** 2024-04-07 (22:51 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7182872626225164288/
@@ -1121,7 +1215,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch #science
 
-### 57. 2024-03-01 — Unsolicited advice for young scientists.
+### 62. 2024-03-01 — Unsolicited advice for young scientists.
 
 - **Date:** 2024-03-01 (15:20 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7169350701586866177/
@@ -1137,7 +1231,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #science 
 > #phdresearch
 
-### 58. 2024-02-24 — Unsolicited advice for young scientists doing computational modeling.
+### 63. 2024-02-24 — Unsolicited advice for young scientists doing computational modeling.
 
 - **Date:** 2024-02-24 (14:28 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7167163381718732800/
@@ -1160,7 +1254,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #science #phdresearch #computation
 
-### 59. 2024-01-25 — Unsolicited advice for young scientists.
+### 64. 2024-01-25 — Unsolicited advice for young scientists.
 
 - **Date:** 2024-01-25 (23:15 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7156424422420094976/
@@ -1178,7 +1272,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #phdresearch 
 > #scienceandtechnology
 
-### 60. 2024-01-17 — Unsolicited advice for young scientists.
+### 65. 2024-01-17 — Unsolicited advice for young scientists.
 
 - **Date:** 2024-01-17 (00:34 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7153182763238522880/
@@ -1203,7 +1297,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch #science
 
-### 61. 2024-01-12 — Unsolicited advice for young scientists.
+### 66. 2024-01-12 — Unsolicited advice for young scientists.
 
 - **Date:** 2024-01-12 (01:06 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7151378906061619201/
@@ -1233,7 +1327,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #phdresearch 
 > #science
 
-### 62. 2024-01-05 — Unsolicited advice for young scientists doing computational modeling.
+### 67. 2024-01-05 — Unsolicited advice for young scientists doing computational modeling.
 
 - **Date:** 2024-01-05 (13:32 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7149030003706331136/
@@ -1261,7 +1355,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #math 
 > #computation
 
-### 63. 2023-12-28 — Unsolicited advice for young Faculty:
+### 68. 2023-12-28 — Unsolicited advice for young Faculty:
 
 - **Date:** 2023-12-28 (13:50 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7146135307862573057/
@@ -1280,7 +1374,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #academia 
 > #science
 
-### 64. 2023-12-22 — Unsolicited advice for young scientists doing computational research:
+### 69. 2023-12-22 — Unsolicited advice for young scientists doing computational research:
 
 - **Date:** 2023-12-22 (14:37 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7143972905163403264/
@@ -1313,7 +1407,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #algorithms 
 > #math
 
-### 65. 2023-12-12 — Unsolicited advice for young scientists:
+### 70. 2023-12-12 — Unsolicited advice for young scientists:
 
 - **Date:** 2023-12-12 (02:43 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7140169353571766275/
@@ -1330,7 +1424,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch #science
 
-### 66. 2023-11-26 — Unsolicited advice for young Faculty.
+### 71. 2023-11-26 — Unsolicited advice for young Faculty.
 
 - **Date:** 2023-11-26 (16:26 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7134578138507878400/
@@ -1353,7 +1447,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #science #phdresearch
 
-### 67. 2023-11-12 — Unsolicited advice for young scientists:
+### 72. 2023-11-12 — Unsolicited advice for young scientists:
 
 - **Date:** 2023-11-12 (15:02 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7129483548083834880/
@@ -1369,7 +1463,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #science 
 > #phdresearch
 
-### 68. 2023-10-28 — Unsolicited advice for young scientists:
+### 73. 2023-10-28 — Unsolicited advice for young scientists:
 
 - **Date:** 2023-10-28 (13:15 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7124020760586682368/
@@ -1390,7 +1484,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #science #phdresearch
 
-### 69. 2023-10-18 — Unsolicited advice for young scientists doing computational research.
+### 74. 2023-10-18 — Unsolicited advice for young scientists doing computational research.
 
 - **Date:** 2023-10-18 (01:05 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7120213249228247040/
@@ -1412,7 +1506,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #computation 
 > #math
 
-### 70. 2023-10-11 — Unsolicited advice for young scientists.
+### 75. 2023-10-11 — Unsolicited advice for young scientists.
 
 - **Date:** 2023-10-11 (00:59 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7117674996348461057/
@@ -1430,7 +1524,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #phdresearch 
 > #science
 
-### 71. 2023-10-04 — Unsolicited advice for young scientists:
+### 76. 2023-10-04 — Unsolicited advice for young scientists:
 
 - **Date:** 2023-10-04 (15:55 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7115363699019698176/
@@ -1447,7 +1541,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch #science
 
-### 72. 2023-09-28 — Unsolicited advice for young scientists:
+### 77. 2023-09-28 — Unsolicited advice for young scientists:
 
 - **Date:** 2023-09-28 (23:33 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7113304717685911553/
@@ -1462,7 +1556,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch #science
 
-### 73. 2023-09-21 — Unsolicited advice for young scientists doing computational modeling.
+### 78. 2023-09-21 — Unsolicited advice for young scientists doing computational modeling.
 
 - **Date:** 2023-09-21 (01:20 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7110432672971165696/
@@ -1487,7 +1581,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #science 
 > #computation
 
-### 74. 2023-08-24 — Unsolicited advice for young scientists:
+### 79. 2023-08-24 — Unsolicited advice for young scientists:
 
 - **Date:** 2023-08-24 (00:19 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7100270428811657216/
@@ -1502,7 +1596,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch #science
 
-### 75. 2023-08-17 — Unsolicited advice for young Faculty:
+### 80. 2023-08-17 — Unsolicited advice for young Faculty:
 
 - **Date:** 2023-08-17 (12:21 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7097915431348289537/
@@ -1518,7 +1612,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #academia 
 > #science
 
-### 76. 2023-08-11 — Unsolicited advice for young scientists:
+### 81. 2023-08-11 — Unsolicited advice for young scientists:
 
 - **Date:** 2023-08-11 (02:12 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7095587760631152640/
@@ -1534,7 +1628,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #phdresearch 
 > #science
 
-### 77. 2023-07-31 — Unsolicited advice for young scientists:
+### 82. 2023-07-31 — Unsolicited advice for young scientists:
 
 - **Date:** 2023-07-31 (14:06 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7091781145620578304/
@@ -1555,7 +1649,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch #science
 
-### 78. 2023-07-26 — Unsolicited advice for young scientists:
+### 83. 2023-07-26 — Unsolicited advice for young scientists:
 
 - **Date:** 2023-07-26 (23:41 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7090113973773062144/
@@ -1580,7 +1674,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch #science
 
-### 79. 2023-02-21 — Unsolicited advice for young scientists:
+### 84. 2023-02-21 — Unsolicited advice for young scientists:
 
 - **Date:** 2023-02-21 (14:33 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7033806014571311104/
@@ -1595,7 +1689,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 >
 > #phdresearch
 
-### 80. 2023-01-05 — Unsolicited advice for young scientists:
+### 85. 2023-01-05 — Unsolicited advice for young scientists:
 
 - **Date:** 2023-01-05 (14:35 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7016774085208657920/
@@ -1615,7 +1709,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #phdresearch 
 > #academicresearch
 
-### 81. 2022-12-06 — Unsolicited advice for young Faculty:
+### 86. 2022-12-06 — Unsolicited advice for young Faculty:
 
 - **Date:** 2022-12-06 (13:59 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7005893497190830080/
@@ -1635,7 +1729,7 @@ Collected on 2026-10-14 from the activity feed at https://www.linkedin.com/in/vz
 > #academia 
 > #phdresearch
 
-### 82. 2022-11-27 — Unsolicited advice for young scientists:
+### 87. 2022-11-27 — Unsolicited advice for young scientists:
 
 - **Date:** 2022-11-27 (18:11 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7002695356387917824/
