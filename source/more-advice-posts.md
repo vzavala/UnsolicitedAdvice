@@ -3,7 +3,7 @@
 Posts that give advice to students or faculty but aren't part of the "Unsolicited advice" series.
 Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and saved items (all years).
 
-## Posts (47)
+## Posts (46)
 
 ### 1. 2026-10-12 — In the Era of AI, the Process Matters
 
@@ -35,17 +35,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch
 
-### 3. 2026-08-19 — Take Short Naps
-
-- **Date:** 2026-08-19 (20:19 UTC)
-- **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7495937526373732352/
-- **Images/attachments:** None (text only)
-
-> One thing that I have learned from my Chinese students is their habit of taking short naps during work. Now I do it all the time and it works miracles; it is a full brain reset.
->
-> #phdresearch
-
-### 4. 2026-07-28 — Learn to Say No
+### 3. 2026-07-28 — Learn to Say No
 
 - **Date:** 2026-07-28 (14:11 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7487872426744115201/
@@ -61,7 +51,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #academia
 
-### 5. 2026-06-01 — The Let-Down Effect: Anxiety After Stress
+### 4. 2026-06-01 — The Let-Down Effect: Anxiety After Stress
 
 - **Date:** 2026-06-01 (14:36 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7467222622519529473/
@@ -77,7 +67,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #academia
 
-### 6. 2026-05-25 — Running as a Way to Manage Anxiety
+### 5. 2026-05-25 — Running as a Way to Manage Anxiety
 
 - **Date:** 2026-05-25 (21:41 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7464792802758070274/
@@ -93,7 +83,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch
 
-### 7. 2026-04-08 — Put Acknowledgments First
+### 6. 2026-04-08 — Put Acknowledgments First
 
 - **Date:** 2026-04-08 (13:54 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7447643028393058304/
@@ -105,7 +95,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch
 
-### 8. 2026-03-20 — Mentoring Is Built on Mutual Trust
+### 7. 2026-03-20 — Mentoring Is Built on Mutual Trust
 
 - **Date:** 2026-03-20 (20:17 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7440854052868915200/
@@ -119,7 +109,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch
 
-### 9. 2026-02-21 — Enjoy the Journey, Not Just the Outcome
+### 8. 2026-02-21 — Enjoy the Journey, Not Just the Outcome
 
 - **Date:** 2026-02-21 (15:47 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7431001512870330368/
@@ -135,7 +125,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch
 
-### 10. 2026-02-20 — Teach Students to Handle Ill-Defined Problems
+### 9. 2026-02-20 — Teach Students to Handle Ill-Defined Problems
 
 - **Date:** 2026-02-20 (01:47 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7430427919543468032/
@@ -147,7 +137,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #academia
 
-### 11. 2025-12-30 — You Try, You Fail, You Try Again
+### 10. 2025-12-30 — You Try, You Fail, You Try Again
 
 - **Date:** 2025-12-30 (14:19 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7411772897205186560/
@@ -163,7 +153,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #academia
 
-### 12. 2025-12-10 — Balancing Commitments as a Professor
+### 11. 2025-12-10 — Balancing Commitments as a Professor
 
 - **Date:** 2025-12-10 (14:39 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7404530198710530048/
@@ -177,7 +167,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #academia
 
-### 13. 2025-12-04 — Complexity vs. Insight in Optimization Models
+### 12. 2025-12-04 — Complexity vs. Insight in Optimization Models
 
 - **Date:** 2025-12-04 (13:45 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7402342389698527232/
@@ -195,7 +185,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #optimization #systemsengineering
 
-### 14. 2025-11-28 — What Makes the PhD So Challenging
+### 13. 2025-11-28 — What Makes the PhD So Challenging
 
 - **Date:** 2025-11-28 (16:38 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7400211402973696000/
@@ -219,7 +209,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch
 
-### 15. 2025-11-23 — Include a Personal Intro Slide
+### 14. 2025-11-23 — Include a Personal Intro Slide
 
 - **Date:** 2025-11-23 (20:35 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7398459084255064065/
@@ -241,7 +231,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch #academia
 
-### 16. 2025-11-08 — Conferences for Introverts
+### 15. 2025-11-08 — Conferences for Introverts
 
 - **Date:** 2025-11-08 (01:27 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7392734441485459456/
@@ -257,7 +247,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch #academia
 
-### 17. 2025-10-26 — What Goes into Designing a Course
+### 16. 2025-10-26 — What Goes into Designing a Course
 
 - **Date:** 2025-10-26 (20:27 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7388310211377315840/
@@ -279,7 +269,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #academia
 
-### 18. 2025-10-21 — Norms for Productive Group Discussions
+### 17. 2025-10-21 — Norms for Productive Group Discussions
 
 - **Date:** 2025-10-21 (13:03 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7386386719333539840/
@@ -291,7 +281,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch
 
-### 19. 2025-10-17 — Impact Doesn't Have to Mean Commercialization
+### 18. 2025-10-17 — Impact Doesn't Have to Mean Commercialization
 
 - **Date:** 2025-10-17 (13:06 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7384937752498397184/
@@ -311,7 +301,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch
 
-### 20. 2025-09-02 — What Should You Call Your Professor?
+### 19. 2025-09-02 — What Should You Call Your Professor?
 
 - **Date:** 2025-09-02 (22:39 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7368774556330725376/
@@ -327,7 +317,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch
 
-### 21. 2025-09-01 — Sketch an Outline Before You Write
+### 20. 2025-09-01 — Sketch an Outline Before You Write
 
 - **Date:** 2025-09-01 (14:54 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7368295272369569793/
@@ -345,7 +335,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch
 
-### 22. 2025-08-23 — College Is Also About Networks
+### 21. 2025-08-23 — College Is Also About Networks
 
 - **Date:** 2025-08-23 (15:09 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7365037444573880320/
@@ -359,7 +349,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > Conversations with my classmates helped me identify what I liked and what I wanted to do after graduation.
 
-### 23. 2025-08-14 — Plan Your Day in Time Slots
+### 22. 2025-08-14 — Plan Your Day in Time Slots
 
 - **Date:** 2025-08-14 (12:16 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7361732482649509888/
@@ -373,7 +363,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch
 
-### 24. 2025-07-26 — The Runner's High and Clear Thinking
+### 23. 2025-07-26 — The Runner's High and Clear Thinking
 
 - **Date:** 2025-07-26 (17:42 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7354929061493686275/
@@ -387,7 +377,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch
 
-### 25. 2025-07-24 — Resources for Becoming a Good Reviewer
+### 24. 2025-07-24 — Resources for Becoming a Good Reviewer
 
 - **Date:** 2025-07-24 (21:15 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7354257991166038017/
@@ -403,7 +393,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch
 
-### 26. 2025-07-21 — Your Specialty Can Be Building Bridges
+### 25. 2025-07-21 — Your Specialty Can Be Building Bridges
 
 - **Date:** 2025-07-21 (19:35 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7353145593147346945/
@@ -417,7 +407,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch #systemsengineering
 
-### 27. 2025-07-15 — Be Thorough but Efficient as a Reviewer
+### 26. 2025-07-15 — Be Thorough but Efficient as a Reviewer
 
 - **Date:** 2025-07-15 (09:15 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7350815291565617156/
@@ -433,7 +423,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch
 
-### 28. 2025-07-01 — Build a Research Program Around a Core
+### 27. 2025-07-01 — Build a Research Program Around a Core
 
 - **Date:** 2025-07-01 (12:17 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7345787713700143104/
@@ -449,7 +439,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch #academia
 
-### 29. 2025-06-30 — Getting Started in Data Science and Machine Learning
+### 28. 2025-06-30 — Getting Started in Data Science and Machine Learning
 
 - **Date:** 2025-06-30 (12:46 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7345432474736279552/
@@ -465,7 +455,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch #machinelearning
 
-### 30. 2025-06-30 — A Poster Without the Poster Tube
+### 29. 2025-06-30 — A Poster Without the Poster Tube
 
 - **Date:** 2025-06-30 (00:51 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7345252587606069250/
@@ -481,7 +471,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch
 
-### 31. 2025-06-21 — Help Mentees Discover Their Strengths
+### 30. 2025-06-21 — Help Mentees Discover Their Strengths
 
 - **Date:** 2025-06-21 (21:31 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7342303069273001985/
@@ -497,7 +487,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch
 
-### 32. 2025-06-19 — Share Your Data and Code
+### 31. 2025-06-19 — Share Your Data and Code
 
 - **Date:** 2025-06-19 (17:40 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7341520184827924481/
@@ -511,7 +501,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch #machinelearning
 
-### 33. 2025-06-14 — Lessons from Federer on Resilience
+### 32. 2025-06-14 — Lessons from Federer on Resilience
 
 - **Date:** 2025-06-14 (13:29 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7339645221036617729/
@@ -529,7 +519,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch
 
-### 34. 2025-06-01 — Mentoring Is an Emotional Investment
+### 33. 2025-06-01 — Mentoring Is an Emotional Investment
 
 - **Date:** 2025-06-01 (21:12 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7335050741960626176/
@@ -545,7 +535,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch
 
-### 35. 2025-05-21 — Becoming an Independent Researcher
+### 34. 2025-05-21 — Becoming an Independent Researcher
 
 - **Date:** 2025-05-21 (00:29 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7330751623771643904/
@@ -559,7 +549,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #chemicalengineering #controls #phdresearch
 
-### 36. 2025-04-24 — The Four Elements of Research
+### 35. 2025-04-24 — The Four Elements of Research
 
 - **Date:** 2025-04-24 (23:13 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7321310403261566980/
@@ -576,7 +566,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch
 
-### 37. 2025-04-20 — Confidence Is Built, Not Innate
+### 36. 2025-04-20 — Confidence Is Built, Not Innate
 
 - **Date:** 2025-04-20 (12:52 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7319704543296962560/
@@ -596,7 +586,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch #mentorship
 
-### 38. 2025-03-31 — Professors Need Some Psychology
+### 37. 2025-03-31 — Professors Need Some Psychology
 
 - **Date:** 2025-03-31 (16:06 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7312505458143940608/
@@ -612,7 +602,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #academia #phdresearch
 
-### 39. 2025-03-26 — The Best Mentors Genuinely Care
+### 38. 2025-03-26 — The Best Mentors Genuinely Care
 
 - **Date:** 2025-03-26 (02:10 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7310483254921347072/
@@ -624,7 +614,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch
 
-### 40. 2025-03-21 — If You Want It to Happen, Start It Yourself
+### 39. 2025-03-21 — If You Want It to Happen, Start It Yourself
 
 - **Date:** 2025-03-21 (13:55 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7308848760871170048/
@@ -636,7 +626,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > Leaders are not just the people at the top, we need leaders that foster change and take action at all levels. We cannot passively wait for others to initiate change.
 
-### 41. 2025-01-30 — Math Teaches You How to Learn
+### 40. 2025-01-30 — Math Teaches You How to Learn
 
 - **Date:** 2025-01-30 (13:15 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7290719210417111040/
@@ -656,7 +646,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #academia #phdresearch #mathematics #education
 
-### 42. 2024-05-06 — Why Research Mentoring Matters
+### 41. 2024-05-06 — Why Research Mentoring Matters
 
 - **Date:** 2024-05-06 (13:06 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7193234773555752960/
@@ -670,7 +660,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #phdresearch #science
 
-### 43. 2024-03-21 — Take Your Role as a Mentor Seriously
+### 42. 2024-03-21 — Take Your Role as a Mentor Seriously
 
 - **Date:** 2024-03-21 (13:01 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7176563527942303745/
@@ -680,7 +670,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #academia #phdresearch
 
-### 44. 2024-02-19 — Designing Problems for Your Courses
+### 43. 2024-02-19 — Designing Problems for Your Courses
 
 - **Date:** 2024-02-19 (01:05 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7165149441627242496/
@@ -694,7 +684,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #academia #scienceeducation #phdresearch
 
-### 45. 2024-01-27 — Systems Thinking in Mentoring
+### 44. 2024-01-27 — Systems Thinking in Mentoring
 
 - **Date:** 2024-01-27 (14:00 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7157009541925105665/
@@ -710,7 +700,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #science #phdresearch #mentoring #systemsengineering
 
-### 46. 2023-11-17 — Embrace Your Naïveté
+### 45. 2023-11-17 — Embrace Your Naïveté
 
 - **Date:** 2023-11-17 (14:00 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7131279902368034817/
@@ -728,7 +718,7 @@ Collected on 2026-11-01 from the LinkedIn activity feed (back to March 2025) and
 >
 > #science #phdresearch
 
-### 47. 2023-04-30 — Learning to Cope with Criticism
+### 46. 2023-04-30 — Learning to Cope with Criticism
 
 - **Date:** 2023-04-30 (01:16 UTC)
 - **URL:** https://www.linkedin.com/feed/update/urn:li:activity:7058247665305731073/

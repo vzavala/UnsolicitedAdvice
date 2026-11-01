@@ -9,7 +9,7 @@ Come back to these every few months.
 - [ ] Do I know the warning signs of burnout or depression, and who I'd talk to?
 - [ ] Am I tracking my own progress instead of comparing myself with others?
 - [ ] After a stressful stretch ends, do I expect a dip (the let-down effect) and plan some recovery?
-- [ ] Do I have a way to clear my head, like running, a walk or a short nap?
+- [ ] Do I have a way to clear my head, like running or a walk?
 
 **Research**
 - [ ] Have I spent time on focused thinking about *which* question to pursue?

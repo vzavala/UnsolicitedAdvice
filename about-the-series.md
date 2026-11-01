@@ -1,6 +1,6 @@
 # About the Series
 
-The book includes posts from **November 27, 2022** to **October 27, 2026**: 134 posts over almost four years. 87 of them open with "Unsolicited advice…"; the other 47 give the same kind of advice without that opener. Nearly every post carries the hashtag #phdresearch or #academia.
+The book includes posts from **November 27, 2022** to **October 27, 2026**: 133 posts over almost four years. 87 of them open with "Unsolicited advice…"; the other 46 give the same kind of advice without that opener. Nearly every post carries the hashtag #phdresearch or #academia.
 
 ## How the series started
 
@@ -18,8 +18,8 @@ In October 2026 the posts were collected into this book and organized by theme i
 
 | | |
 |---|---|
-| Posts | 134 |
-| Addressed to young scientists | 96 |
+| Posts | 133 |
+| Addressed to young scientists | 95 |
 | Addressed to computational and mathematical researchers | 16 |
 | Addressed to young faculty | 22 |
 | Typical length | about 160 words |

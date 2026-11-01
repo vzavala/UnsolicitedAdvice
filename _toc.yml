@@ -17,10 +17,9 @@ parts:
           - file: 01-well-being/04-three-things-i-wish-id-known-when-starting-my-phd
           - file: 01-well-being/05-depression-is-common-and-help-works
           - file: 01-well-being/06-escape-the-i-need-to-mindset-make-time-to-play
-          - file: 01-well-being/07-take-short-naps
-          - file: 01-well-being/08-the-let-down-effect-anxiety-after-stress
-          - file: 01-well-being/09-running-as-a-way-to-manage-anxiety
-          - file: 01-well-being/10-the-runners-high-and-clear-thinking
+          - file: 01-well-being/07-the-let-down-effect-anxiety-after-stress
+          - file: 01-well-being/08-running-as-a-way-to-manage-anxiety
+          - file: 01-well-being/09-the-runners-high-and-clear-thinking
   - caption: "Part 2: Mindset, Confidence and Resilience"
     chapters:
       - file: 02-mindset/index

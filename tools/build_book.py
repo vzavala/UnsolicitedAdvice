@@ -178,7 +178,6 @@ MORE = {
     "7467222622519529473": ("01-well-being", "The Let-Down Effect: Anxiety After Stress"),
     "7464792802758070274": ("01-well-being", "Running as a Way to Manage Anxiety"),
     "7354929061493686275": ("01-well-being", "The Runner's High and Clear Thinking"),
-    "7495937526373732352": ("01-well-being", "Take Short Naps"),
     "7339645221036617729": ("02-mindset", "Lessons from Federer on Resilience"),
     "7431001512870330368": ("02-mindset", "Enjoy the Journey, Not Just the Outcome"),
     "7411772897205186560": ("02-mindset", "You Try, You Fail, You Try Again"),

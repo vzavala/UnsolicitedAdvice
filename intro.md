@@ -8,13 +8,13 @@
 
 I write a series of LinkedIn posts under the running title: *"Unsolicited advice for young scientists…"* These are the things I wish someone had told me along my journey as a scientist, especially when I was struggling. Many of these pieces of advice seem basic, but they can make a big difference.
 
-This book collects all 134 of my advice posts and groups them by theme. Each part opens with its key takeaways, followed by the original posts.
+This book collects all 133 of my advice posts and groups them by theme. Each part opens with its key takeaways, followed by the original posts.
 
 ## What's inside
 
 | Part | Theme | Posts |
 |---|---|---|
-| 1 | [Well-Being and Mental Health](01-well-being/index.md) | 10 |
+| 1 | [Well-Being and Mental Health](01-well-being/index.md) | 9 |
 | 2 | [Mindset, Confidence and Resilience](02-mindset/index.md) | 16 |
 | 3 | [Choosing Problems and Generating Ideas](03-problems-and-ideas/index.md) | 12 |
 | 4 | [Communicating Science](04-communication/index.md) | 13 |
