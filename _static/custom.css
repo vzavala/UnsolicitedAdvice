@@ -1,0 +1,15 @@
+/* Wisconsin red (UW–Madison "Badger red", #C5050C) for links and accents. */
+html[data-theme="light"] {
+  --pst-color-primary: #c5050c;
+  --pst-color-link: #c5050c;
+  --pst-color-link-hover: #9b0000;
+  --pst-color-secondary: #c5050c;
+}
+
+/* A lighter red keeps links readable on the dark background. */
+html[data-theme="dark"] {
+  --pst-color-primary: #f0646a;
+  --pst-color-link: #f0646a;
+  --pst-color-link-hover: #ff8a8f;
+  --pst-color-secondary: #f0646a;
+}
