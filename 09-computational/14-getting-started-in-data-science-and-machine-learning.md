@@ -1,6 +1,6 @@
 # Getting Started in Data Science and Machine Learning
 
-> *More advice (not part of the series).* Posted on LinkedIn on [June 30, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7345432474736279552/).
+> *Unsolicited advice for young scientists doing computational research.* Posted on LinkedIn on [June 30, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7345432474736279552/).
 
 Was chatting with a student that is new to the area of data science and machine learning about how to get immersed in this ever-expanding  universe.
 

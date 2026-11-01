@@ -1,6 +1,6 @@
 # Impact Doesn't Have to Mean Commercialization
 
-> *More advice (not part of the series).* Posted on LinkedIn on [October 17, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7384937752498397184/).
+> *Unsolicited advice for young scientists doing computational research.* Posted on LinkedIn on [October 17, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7384937752498397184/).
 
 This week I was asked about how do I translate my research into commercial products. 
 

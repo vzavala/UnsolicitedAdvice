@@ -1,6 +1,6 @@
 # Lessons from Federer on Resilience
 
-> *More advice (not part of the series).* Posted on LinkedIn on [June 14, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7339645221036617729/).
+> *Unsolicited advice for young scientists.* Posted on LinkedIn on [June 14, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7339645221036617729/).
 
 I recently came across a commencement speech of Roger Federer in which he talked about mental focus/resilience.
 

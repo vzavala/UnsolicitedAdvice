@@ -1,6 +1,6 @@
 # The Runner's High and Clear Thinking
 
-> *More advice (not part of the series).* Posted on LinkedIn on [July 26, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7354929061493686275/).
+> *Unsolicited advice for young scientists.* Posted on LinkedIn on [July 26, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7354929061493686275/).
 
 There is an interesting phenomenon that runners often experience called "runner's high." 
 

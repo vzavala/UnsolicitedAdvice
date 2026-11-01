@@ -9,24 +9,19 @@ Science is a team sport. These posts are about self-awareness, mentorship (recei
 - Networking can be learned, and talks, volunteering and social media all help.
 - Self-awareness and emotional intelligence are underrated scientific skills.
 
-## Unsolicited advice
+## In this part
 
-- [Build a Network of Trusted Mentors](01-build-a-network-of-trusted-mentors.md)
-- [How to Be a Good Mentee](02-how-to-be-a-good-mentee.md)
-- [Networking, Especially for Introverts](03-networking-especially-for-introverts.md)
-- [Self-Awareness Is Underrated](04-self-awareness-is-underrated.md)
-- [Don't Neglect the Social Side of Science](05-dont-neglect-the-social-side-of-science.md)
-- [Learn from Other Cultures](06-learn-from-other-cultures.md)
-- [Ask People About Their Career Paths](07-ask-people-about-their-career-paths.md)
-- [Do Your Homework Before a Visit](08-do-your-homework-before-a-visit.md)
-
-## More advice
-
-Related posts that aren't part of the series.
-
-- [Mentoring Is Built on Mutual Trust](09-mentoring-is-built-on-mutual-trust.md)
-- [Conferences for Introverts](10-conferences-for-introverts.md)
-- [Norms for Productive Group Discussions](11-norms-for-productive-group-discussions.md)
-- [What Should You Call Your Professor?](12-what-should-you-call-your-professor.md)
-- [College Is Also About Networks](13-college-is-also-about-networks.md)
-- [If You Want It to Happen, Start It Yourself](14-if-you-want-it-to-happen-start-it-yourself.md)
+1. [Build a Network of Trusted Mentors](01-build-a-network-of-trusted-mentors.md)
+2. [How to Be a Good Mentee](02-how-to-be-a-good-mentee.md)
+3. [Networking, Especially for Introverts](03-networking-especially-for-introverts.md)
+4. [Self-Awareness Is Underrated](04-self-awareness-is-underrated.md)
+5. [Don't Neglect the Social Side of Science](05-dont-neglect-the-social-side-of-science.md)
+6. [Learn from Other Cultures](06-learn-from-other-cultures.md)
+7. [Ask People About Their Career Paths](07-ask-people-about-their-career-paths.md)
+8. [Do Your Homework Before a Visit](08-do-your-homework-before-a-visit.md)
+9. [Mentoring Is Built on Mutual Trust](09-mentoring-is-built-on-mutual-trust.md)
+10. [Conferences for Introverts](10-conferences-for-introverts.md)
+11. [Norms for Productive Group Discussions](11-norms-for-productive-group-discussions.md)
+12. [What Should You Call Your Professor?](12-what-should-you-call-your-professor.md)
+13. [College Is Also About Networks](13-college-is-also-about-networks.md)
+14. [If You Want It to Happen, Start It Yourself](14-if-you-want-it-to-happen-start-it-yourself.md)

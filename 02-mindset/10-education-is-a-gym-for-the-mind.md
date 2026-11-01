@@ -1,6 +1,6 @@
 # Education Is a Gym for the Mind
 
-> *More advice (not part of the series).* Posted on LinkedIn on [September 28, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7510382342465830912/).
+> *Unsolicited advice for young scientists.* Posted on LinkedIn on [September 28, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7510382342465830912/).
 
 The best courses that I have taken throughout my life (going back even to elementary school) were those in which the instructor forced us to think differently. 
 

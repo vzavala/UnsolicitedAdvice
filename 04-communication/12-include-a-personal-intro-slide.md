@@ -1,6 +1,6 @@
 # Include a Personal Intro Slide
 
-> *More advice (not part of the series).* Posted on LinkedIn on [November 23, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7398459084255064065/).
+> *Unsolicited advice for young scientists.* Posted on LinkedIn on [November 23, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7398459084255064065/).
 
 It is useful to include a personal intro slide in your presentations. 
 

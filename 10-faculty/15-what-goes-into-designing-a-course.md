@@ -1,6 +1,6 @@
 # What Goes into Designing a Course
 
-> *More advice (not part of the series).* Posted on LinkedIn on [October 26, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7388310211377315840/).
+> *Unsolicited advice for young faculty.* Posted on LinkedIn on [October 26, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7388310211377315840/).
 
 Amazing how much time goes into designing a course and all the factors that one needs to consider when doing this. This becomes easier with experience but still requires significant effort. 
 

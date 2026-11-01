@@ -1,6 +1,6 @@
 # Sketch an Outline Before You Write
 
-> *More advice (not part of the series).* Posted on LinkedIn on [September 1, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7368295272369569793/).
+> *Unsolicited advice for young scientists.* Posted on LinkedIn on [September 1, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7368295272369569793/).
 
 I have said this before, but I will say it again… as I feel that students get very anxious about  technical writing and presentations.
 

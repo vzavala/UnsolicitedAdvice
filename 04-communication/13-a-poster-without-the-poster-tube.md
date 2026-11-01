@@ -1,6 +1,6 @@
 # A Poster Without the Poster Tube
 
-> *More advice (not part of the series).* Posted on LinkedIn on [June 30, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7345252587606069250/).
+> *Unsolicited advice for young scientists.* Posted on LinkedIn on [June 30, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7345252587606069250/).
 
 If you do not want to carry a poster tube across the Atlantic ocean (and have airport security giving you weird looks), you can simply print slides and paste them on the board as a collage. 
 

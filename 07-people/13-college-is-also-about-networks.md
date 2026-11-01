@@ -1,6 +1,6 @@
 # College Is Also About Networks
 
-> *More advice (not part of the series).* Posted on LinkedIn on [August 23, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7365037444573880320/).
+> *Unsolicited advice for young scientists.* Posted on LinkedIn on [August 23, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7365037444573880320/).
 
 I feel that an under-appreciated aspect of college education is access to networks. 
 

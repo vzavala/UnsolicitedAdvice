@@ -1,6 +1,6 @@
 # Conferences for Introverts
 
-> *More advice (not part of the series).* Posted on LinkedIn on [November 8, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7392734441485459456/).
+> *Unsolicited advice for young scientists.* Posted on LinkedIn on [November 8, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7392734441485459456/).
 
 As an introvert, I have always struggled navigating conferences. But, after many years of being in this business, I have noticed the following trends. 
 

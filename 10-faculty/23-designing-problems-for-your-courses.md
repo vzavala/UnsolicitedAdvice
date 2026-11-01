@@ -1,6 +1,6 @@
 # Designing Problems for Your Courses
 
-> *More advice (not part of the series).* Posted on LinkedIn on [February 19, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7165149441627242496/).
+> *Unsolicited advice for young faculty.* Posted on LinkedIn on [February 19, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7165149441627242496/).
 
 Designing problems for your courses can be super challenging but also super rewarding. 
 

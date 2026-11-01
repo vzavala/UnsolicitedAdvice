@@ -1,6 +1,6 @@
 # Resources for Becoming a Good Reviewer
 
-> *More advice (not part of the series).* Posted on LinkedIn on [July 24, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7354257991166038017/).
+> *Unsolicited advice for young scientists.* Posted on LinkedIn on [July 24, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7354257991166038017/).
 
 If you are serving as a reviewer, you should be aware that the American Chemical Society (ACS) offers *excellent* resources to understand the peer review process and to become an effective reviewer. 
 

@@ -1,6 +1,6 @@
 # What Makes the PhD So Challenging
 
-> *More advice (not part of the series).* Posted on LinkedIn on [November 28, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7400211402973696000/).
+> *Unsolicited advice for young scientists.* Posted on LinkedIn on [November 28, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7400211402973696000/).
 
 I continue to think about what makes the PhD such a unique and challenging experience? 
 

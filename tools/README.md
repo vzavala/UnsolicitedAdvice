@@ -2,7 +2,7 @@
 
 The book is a [Jupyter Book](https://jupyterbook.org) (version 1, Sphinx Book Theme). It has two kinds of pages:
 
-- **Generated pages:** the numbered part folders (`01-well-being/` … `10-faculty/`) and `_toc.yml`. They're built from `source/unsolicited-advice-posts.md` (the series) and `source/more-advice-posts.md` (other advice posts) by `tools/build_book.py`.
+- **Generated pages:** the numbered part folders (`01-well-being/` … `10-faculty/`) and `_toc.yml`. They're built from `source/unsolicited-advice-posts.md` (the series) and `source/more-advice-posts.md` (advice posts written without the "Unsolicited advice" opener) by `tools/build_book.py`.
 - **Hand-written pages:** `intro.md`, `preface.md`, `how-to-use.md`, `checklists.md` and `about-the-series.md`. The script never touches them.
 
 ## Set up once
@@ -30,8 +30,8 @@ Then open `_build/html/index.html` in a browser. If the sidebar looks stale, run
 
 ## Adding a new post
 
-1. Add the post to `source/unsolicited-advice-posts.md` (series) or `source/more-advice-posts.md` (other advice) in the same format as the others (heading, `**Date:**`, `**URL:**`, quoted text).
-2. In `tools/build_book.py`, add `"<activity id>": ("<part folder>", "Title")` to `LATER_SERIES` (series) or `MORE` (other advice). New entries go at the end of their part, so existing page links don't change. The script stops with an error if any post is left unassigned.
+1. Add the post to `source/unsolicited-advice-posts.md` (posts that open with "Unsolicited advice") or `source/more-advice-posts.md` (the rest) in the same format as the others (heading, `**Date:**`, `**URL:**`, quoted text).
+2. In `tools/build_book.py`, add `"<activity id>": ("<part folder>", "Title")` to `LATER_SERIES` or `MORE`, matching the file you added it to. New entries go at the end of their part, so existing page links don't change. The script stops with an error if any post is left unassigned.
 3. Regenerate, then update the counts in `intro.md` and `about-the-series.md`.
 
 ## Publishing

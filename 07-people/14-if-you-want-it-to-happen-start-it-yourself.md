@@ -1,6 +1,6 @@
 # If You Want It to Happen, Start It Yourself
 
-> *More advice (not part of the series).* Posted on LinkedIn on [March 21, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7308848760871170048/).
+> *Unsolicited advice for young scientists.* Posted on LinkedIn on [March 21, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7308848760871170048/).
 
 A senior colleague recently told me that "If you want something to happen quickly, initiate it yourself."
 

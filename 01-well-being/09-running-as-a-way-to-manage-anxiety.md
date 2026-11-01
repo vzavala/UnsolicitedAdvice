@@ -1,6 +1,6 @@
 # Running as a Way to Manage Anxiety
 
-> *More advice (not part of the series).* Posted on LinkedIn on [May 25, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7464792802758070274/).
+> *Unsolicited advice for young scientists.* Posted on LinkedIn on [May 25, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7464792802758070274/).
 
 Throughout my adult life, long-distance running has been my most effective approach to deal with my recurrent anxiety. 
 

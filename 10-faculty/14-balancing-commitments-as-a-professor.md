@@ -1,6 +1,6 @@
 # Balancing Commitments as a Professor
 
-> *More advice (not part of the series).* Posted on LinkedIn on [December 10, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7404530198710530048/).
+> *Unsolicited advice for young faculty.* Posted on LinkedIn on [December 10, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7404530198710530048/).
 
 One of the most challenging aspects of being a Professor is balancing lots of different tasks/commitments. 
 

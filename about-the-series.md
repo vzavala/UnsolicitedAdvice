@@ -1,18 +1,17 @@
 # About the Series
 
-The book includes the series posts from **November 27, 2022** to **October 27, 2026**: 87 posts over almost four years, or about one every two to three weeks. Nearly every post carries the hashtag #phdresearch. It also includes 47 related posts with advice for students and faculty that aren't part of the series; these appear under "More advice" in each part.
+The book includes posts from **November 27, 2022** to **October 27, 2026**: 134 posts over almost four years, or about one every ten days. 87 of them open with "Unsolicited advice…"; the other 47 give the same kind of advice without that opener. Nearly every post carries the hashtag #phdresearch or #academia.
 
 | | |
 |---|---|
-| Series posts | 87 |
-| More advice posts | 47 |
-| Series posts addressed to young scientists | 66 |
-| Series posts addressed to computational and mathematical researchers | 11 |
-| Series posts addressed to young faculty | 10 |
+| Posts | 134 |
+| Addressed to young scientists | 96 |
+| Addressed to computational and mathematical researchers | 16 |
+| Addressed to young faculty | 22 |
 | Typical length | about 190 words |
-| Total length | about 16,400 words (first 82 series posts) |
-| Reactions | about 44,500 in total; about 410 for a typical post (first 82 series posts) |
-| Comments and reposts | about 1,200 each (first 82 series posts) |
+| Total length | about 16,400 words (first 82 posts) |
+| Reactions | about 44,500 in total; about 410 for a typical post (first 82 posts) |
+| Comments and reposts | about 1,200 each (first 82 posts) |
 
 ## The most popular posts
 

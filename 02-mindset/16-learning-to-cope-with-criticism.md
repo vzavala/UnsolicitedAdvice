@@ -1,6 +1,6 @@
 # Learning to Cope with Criticism
 
-> *More advice (not part of the series).* Posted on LinkedIn on [April 30, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7058247665305731073/).
+> *Unsolicited advice for young scientists.* Posted on LinkedIn on [April 30, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7058247665305731073/).
 
 One of the most difficult challenges that I have faced in my career is learning how to cope with criticism. 
 

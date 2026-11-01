@@ -172,7 +172,8 @@ LATER_SERIES = {
     "7316073485850628099": ("02-mindset", "Impostor Syndrome Is Normal"),
 }
 
-# Posts that aren't in the series but give advice to students or faculty: activity id -> (part, title)
+# Advice posts written without the "Unsolicited advice" opener; they're part of the series in spirit.
+# activity id -> (part, title)
 MORE = {
     "7467222622519529473": ("01-well-being", "The Let-Down Effect: Anxiety After Stress"),
     "7464792802758070274": ("01-well-being", "Running as a Way to Manage Anxiety"),
@@ -223,6 +224,9 @@ MORE = {
     "7176563527942303745": ("10-faculty", "Take Your Role as a Mentor Seriously"),
 }
 
+
+# Audience shown on pages for MORE posts, which have no "Unsolicited advice for ..." opener.
+DEFAULT_AUDIENCE = {"09-computational": "young scientists doing computational research", "10-faculty": "young faculty"}
 
 def parse(path, section):
     text = open(path, encoding="utf-8").read().split("## Related posts")[0].split(section)[1]
@@ -277,16 +281,16 @@ for cdir, ctitle, intro, takeaways, entries in parts:
     os.makedirs(os.path.join(OUT, cdir), exist_ok=True)
     num = int(cdir[:2])
     toc_yml += [f'  - caption: "Part {num}: {ctitle}"', "    chapters:", f"      - file: {cdir}/index", "        title: Overview", "        sections:"]
-    toc_series, toc_more = [], []
+    toc = []
     for i, (p, title) in enumerate(entries, 1):
         fname = f"{i:02d}-{slug(title)}.md"
-        (toc_series if p["series"] else toc_more).append(f"- [{title}]({fname})")
+        toc.append(f"{i}. [{title}]({fname})")
         toc_yml.append(f"          - file: {cdir}/{fname[:-3]}")
         if p["series"]:
             audience = re.sub(r"(?i)^unsolicited advice for ", "", p["opener"])
-            label = f"*Unsolicited advice for {audience}.*"
-        else:
-            label = "*More advice (not part of the series).*"
+        else:  # posted without the "Unsolicited advice" opener; same series in spirit
+            audience = DEFAULT_AUDIENCE.get(cdir, "young scientists")
+        label = f"*Unsolicited advice for {audience}.*"
         page = [f"# {title}", "", f"> {label} Posted on LinkedIn on [{nice(p['date'])}]({p['url']}).", "", p["body"], ""]
         if p["date"] == "2023-12-22" and p["series"]:
             page += [":::{note}", "The original post included a multigrid diagram, which isn't reproduced here. See the LinkedIn post for the figure.", ":::", ""]
@@ -295,9 +299,7 @@ for cdir, ctitle, intro, takeaways, entries in parts:
         open(os.path.join(OUT, cdir, fname), "w", encoding="utf-8").write("\n".join(page))
     ch = [f"# Part {num}: {ctitle}", "", intro, "", "## Key takeaways", ""]
     ch += [f"- {t}" for t in takeaways]
-    ch += ["", "## Unsolicited advice", ""] + toc_series
-    if toc_more:
-        ch += ["", "## More advice", "", "Related posts that aren't part of the series.", ""] + toc_more
+    ch += ["", "## In this part", ""] + toc
     open(os.path.join(OUT, cdir, "index.md"), "w", encoding="utf-8").write("\n".join(ch + [""]))
 
 toc_yml += ["  - caption: Appendices", "    chapters:", "      - file: checklists", "      - file: about-the-series", ""]

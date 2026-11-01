@@ -1,6 +1,6 @@
 # Put Acknowledgments First
 
-> *More advice (not part of the series).* Posted on LinkedIn on [April 8, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7447643028393058304/).
+> *Unsolicited advice for young scientists.* Posted on LinkedIn on [April 8, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7447643028393058304/).
 
 Every time I put together an acknowledgment slide for a talk, I get reminded of the *many* people that have shaped the way I think and that have shaped my scientific journey throughout the years: trainees, former trainees, collaborators from industry/academia, and funding sources (including program managers). 
 

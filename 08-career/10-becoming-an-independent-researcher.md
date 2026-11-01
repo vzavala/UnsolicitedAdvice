@@ -1,6 +1,6 @@
 # Becoming an Independent Researcher
 
-> *More advice (not part of the series).* Posted on LinkedIn on [May 21, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7330751623771643904/).
+> *Unsolicited advice for young scientists.* Posted on LinkedIn on [May 21, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7330751623771643904/).
 
 This was the 1st paper of my career as an independent scientist (without any of my undergraduate, PhD, or postdoc advisors). 
 

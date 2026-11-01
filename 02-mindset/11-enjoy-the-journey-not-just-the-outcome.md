@@ -1,6 +1,6 @@
 # Enjoy the Journey, Not Just the Outcome
 
-> *More advice (not part of the series).* Posted on LinkedIn on [February 21, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7431001512870330368/).
+> *Unsolicited advice for young scientists.* Posted on LinkedIn on [February 21, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7431001512870330368/).
 
 The U.S. figure skating team has given us some important lessons about the importance of focusing on mental health and well-being. 
 

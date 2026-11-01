@@ -1,6 +1,6 @@
 # In the Era of AI, the Process Matters
 
-> *More advice (not part of the series).* Posted on LinkedIn on [October 12, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7515417138354982913/).
+> *Unsolicited advice for young scientists.* Posted on LinkedIn on [October 12, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7515417138354982913/).
 
 In the era of AI, thinking about the process (and not just the product) is essential. 
 

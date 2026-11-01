@@ -1,6 +1,6 @@
 # Embrace Your Naïveté
 
-> *More advice (not part of the series).* Posted on LinkedIn on [November 17, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7131279902368034817/).
+> *Unsolicited advice for young scientists.* Posted on LinkedIn on [November 17, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7131279902368034817/).
 
 Why is naïveté important in science? 
 
