@@ -1,6 +1,6 @@
 # Give Hard Feedback with Care
 
-> *Unsolicited advice for young faculty.* Posted on LinkedIn on [March 23, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7441992346788904960/).
+> Posted on LinkedIn on [March 23, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7441992346788904960/).
 
 Sometimes it is important to give "hard" feedback to our students, even if the truth is uncomfortable. I would rather have people tell me that I am wrong than to continue making the same mistake. Avoiding discomfort is not a winning strategy for promoting growth. 
 

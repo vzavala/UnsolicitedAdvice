@@ -1,6 +1,6 @@
 # Learn Several Programming Languages
 
-> *Unsolicited advice for young scientists working on computational modeling.* Posted on LinkedIn on [May 29, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7201603997005197314/).
+> Posted on LinkedIn on [May 29, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7201603997005197314/).
 
 There are many benefits of learning multiple programming languages. Just as with spoken languages, sometimes we get too comfortable with one language because this is what we are familiar with or because most people use it. 
 

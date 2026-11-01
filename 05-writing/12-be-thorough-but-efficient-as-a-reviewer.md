@@ -1,6 +1,6 @@
 # Be Thorough but Efficient as a Reviewer
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [July 15, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7350815291565617156/).
+> Posted on LinkedIn on [July 15, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7350815291565617156/).
 
 If you are serving as a reviewer for a journal, take the following into consideration.
 

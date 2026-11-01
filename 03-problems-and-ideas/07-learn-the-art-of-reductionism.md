@@ -1,6 +1,6 @@
 # Learn the Art of Reductionism
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [November 13, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7394868844713959424/).
+> Posted on LinkedIn on [November 13, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7394868844713959424/).
 
 A key skill to develop as a scientist is that of *reductionism.* 
 

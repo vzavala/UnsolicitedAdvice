@@ -1,6 +1,6 @@
 # Get to the Point: Lead with Results
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [October 4, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7115363699019698176/).
+> Posted on LinkedIn on [October 4, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7115363699019698176/).
 
 In academia we love to use a narrative structure when giving presentations (e.g., motivation->work->conclusions). We love building up "suspense" prior to revealing our results in a big bang :) 
 

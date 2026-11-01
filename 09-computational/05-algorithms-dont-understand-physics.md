@@ -1,6 +1,6 @@
 # Algorithms Don't Understand Physics
 
-> *Unsolicited advice for young scientists doing computational modeling.* Posted on LinkedIn on [May 15, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7196324404492988416/).
+> Posted on LinkedIn on [May 15, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7196324404492988416/).
 
 Remember that numerical algorithms are mathematical tools that do not understand physics.
 

@@ -1,6 +1,6 @@
 # It's Normal to Start a PhD Without Experience
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [March 15, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7306686429638574080/).
+> Posted on LinkedIn on [March 15, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7306686429638574080/).
 
 It is normal to start your PhD with limited (or no) prior experience on the subject. 
 

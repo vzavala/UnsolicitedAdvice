@@ -1,6 +1,6 @@
 # Make the Most of Your Postdoc
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [November 10, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7261484772814671872/).
+> Posted on LinkedIn on [November 10, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7261484772814671872/).
 
 Your time as a postdoc is super valuable for your professional and personal growth.
 

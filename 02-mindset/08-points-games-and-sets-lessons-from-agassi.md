@@ -1,6 +1,6 @@
 # Points, Games and Sets: Lessons from Agassi
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [October 8, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7514016891074703360/).
+> Posted on LinkedIn on [October 8, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7514016891074703360/).
 
 I am really enjoying reading the autobiography of Andre Agassi and I like the way he frames a tennis match as a hierarchical system. 
 

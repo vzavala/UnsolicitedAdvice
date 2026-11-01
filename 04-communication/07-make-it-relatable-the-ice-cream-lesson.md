@@ -1,6 +1,6 @@
 # Make It Relatable: The Ice-Cream Lesson
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [May 9, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7326395806909898752/).
+> Posted on LinkedIn on [May 9, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7326395806909898752/).
 
 A few years ago I was chatting with a PhD student about how to communicate our research on the environmental impacts of dairy waste to broad audiences. This conversation was triggered because it seemed to me that, in my talks, people were not particularly excited to learn about cow waste, I don't blame them :) 
 

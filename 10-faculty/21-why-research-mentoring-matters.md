@@ -1,6 +1,6 @@
 # Why Research Mentoring Matters
 
-> *Unsolicited advice for young faculty.* Posted on LinkedIn on [May 6, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7193234773555752960/).
+> Posted on LinkedIn on [May 6, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7193234773555752960/).
 
 Why is effective research mentoring essential? 
 

@@ -1,6 +1,6 @@
 # Confidence Is Built, Not Innate
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [April 20, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7319704543296962560/).
+> Posted on LinkedIn on [April 20, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7319704543296962560/).
 
 I recently came across an interview of former President Barack Obama in which he explained that, a key factor behind success, is *confidence.*
 

@@ -1,6 +1,6 @@
 # Not Every Paper Has to Be a Home Run
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [April 29, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7322982279566233602/).
+> Posted on LinkedIn on [April 29, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7322982279566233602/).
 
 Sometimes we have the impression that *all* our papers need to be "home runs" (be super impactful). I feel that this often puts a lot of pressure on us. 
 

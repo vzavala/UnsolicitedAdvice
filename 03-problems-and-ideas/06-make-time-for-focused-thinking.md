@@ -1,6 +1,6 @@
 # Make Time for Focused Thinking
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [December 26, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7410353066903830528/).
+> Posted on LinkedIn on [December 26, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7410353066903830528/).
 
 When I was in my PhD, a professor told me "You want to allocate time to think, just good old, focused thinking."
 

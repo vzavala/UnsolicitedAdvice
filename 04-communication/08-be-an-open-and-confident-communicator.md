@@ -1,6 +1,6 @@
 # Be an Open and Confident Communicator
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [May 15, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7461082744924770305/).
+> Posted on LinkedIn on [May 15, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7461082744924770305/).
 
 Learn to be an open and confident communicator. 
 

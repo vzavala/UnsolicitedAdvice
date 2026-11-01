@@ -1,6 +1,6 @@
 # Complexity vs. Insight in Optimization Models
 
-> *Unsolicited advice for young scientists doing computational research.* Posted on LinkedIn on [December 4, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7402342389698527232/).
+> Posted on LinkedIn on [December 4, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7402342389698527232/).
 
 It is always tempting to build a stochastic + multi-objective + mixed-integer +  nonlinear + multi-scale optimization model. 
 

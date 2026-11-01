@@ -50,4 +50,4 @@ Among the first 82 posts, which together received about 44,500 reactions and abo
 
 ## Sources
 
-The text of each entry is the original LinkedIn post. Hashtags have been removed and spacing lightly adjusted; nothing else has been edited. The 47 posts that didn't open with "Unsolicited advice" carry the same label in this book, with the audience taken from the part they appear in. Where a post included an image, a note says so, and every entry links to its original post.
+The text of each entry is the original LinkedIn post. The opening "Unsolicited advice for…" line, hashtags and extra spacing have been removed; nothing else has been edited. Where a post included an image, a note says so, and every entry links to its original post.

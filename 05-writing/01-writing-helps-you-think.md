@@ -1,6 +1,6 @@
 # Writing Helps You Think
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [December 2, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7401635042026037248/).
+> Posted on LinkedIn on [December 2, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7401635042026037248/).
 
 Technical writing goes beyond communicating our ideas to other people.
 

@@ -1,6 +1,6 @@
 # Get Involved in Teaching
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [September 29, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7246150107656544256/).
+> Posted on LinkedIn on [September 29, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7246150107656544256/).
 
 Find opportunities to get involved in teaching/education, even if you are not considering a career in academia. 
 

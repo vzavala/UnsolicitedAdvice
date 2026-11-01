@@ -1,6 +1,6 @@
 # Escape the "I Need To" Mindset: Make Time to Play
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [November 18, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7396591753069416448/).
+> Posted on LinkedIn on [November 18, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7396591753069416448/).
 
 It is common to get trapped in the "I need to" mindset. I need to finish this paper, I need to pass this course, I need to finish my slides, I need to graduate, I need to solve this problem, I need to submit this report.... This mindset can feel asphyxiating and debilitating and ultimately lead to lack of motivation and procrastination. Trust me, sometimes I feel the same way with all the 1000 things that "I need to" do.
 

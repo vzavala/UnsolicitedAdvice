@@ -1,6 +1,6 @@
 # You Don't Have to Be Amazing at Coding or Math
 
-> *Unsolicited advice for young scientists doing computational research.* Posted on LinkedIn on [October 18, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7120213249228247040/).
+> Posted on LinkedIn on [October 18, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7120213249228247040/).
 
 There is a perception that you have to be "amazing" at programming & math to make an impact in computational research. This perception can lead to feelings of inadequacy and to impostor syndrome.
 

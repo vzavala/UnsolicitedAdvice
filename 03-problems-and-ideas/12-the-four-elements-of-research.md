@@ -1,6 +1,6 @@
 # The Four Elements of Research
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [April 24, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7321310403261566980/).
+> Posted on LinkedIn on [April 24, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7321310403261566980/).
 
 I had a really nice conversation with grad students   about academia this week and one of them broke down beautifully the key elements of scientific research:
 

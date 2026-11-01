@@ -1,6 +1,6 @@
 # Share Your Data and Code
 
-> *Unsolicited advice for young scientists doing computational research.* Posted on LinkedIn on [June 19, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7341520184827924481/).
+> Posted on LinkedIn on [June 19, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7341520184827924481/).
 
 I strongly urge everyone working on AI/ML to share your data/code with your manuscripts. 
 

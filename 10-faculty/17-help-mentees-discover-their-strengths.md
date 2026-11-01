@@ -1,6 +1,6 @@
 # Help Mentees Discover Their Strengths
 
-> *Unsolicited advice for young faculty.* Posted on LinkedIn on [June 21, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7342303069273001985/).
+> Posted on LinkedIn on [June 21, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7342303069273001985/).
 
 One of the main goals of PhD mentorship is to help mentees discover what their skills, passions, and career goals are.
 

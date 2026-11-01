@@ -1,6 +1,6 @@
 # Don't Neglect the Social Side of Science
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [March 2, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7301987157676630016/).
+> Posted on LinkedIn on [March 2, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7301987157676630016/).
 
 When I was a PhD student I did not fully appreciate the social and management aspects of science (e.g., importance of communication, team and project leadership/management, collaborations). These are things that I discovered and learned along the way in my professional career, but I think the path would have been much smoother if I would have been a bit more educated on the subject :) 
 

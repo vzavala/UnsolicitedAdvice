@@ -1,6 +1,6 @@
 # Science Is About Selling Ideas
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [December 12, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7140169353571766275/).
+> Posted on LinkedIn on [December 12, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7140169353571766275/).
 
 Don't forget that science is about generating and *selling* ideas; a great idea needs to be socialized/communicated effectively for it to propagate and make tangible impact. You need to sell your ideas to the scientific community, to funding agencies, or to your boss inside a company (e.g., so that you can justify why your idea is worth pursuing or investing on). 
 

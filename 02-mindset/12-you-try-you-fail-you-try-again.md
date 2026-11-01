@@ -1,6 +1,6 @@
 # You Try, You Fail, You Try Again
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [December 30, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7411772897205186560/).
+> Posted on LinkedIn on [December 30, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7411772897205186560/).
 
 This is the list of (some) of my research proposals submitted in 2025. 
 

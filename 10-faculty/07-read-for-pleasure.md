@@ -1,6 +1,6 @@
 # Read for Pleasure
 
-> *Unsolicited advice for young professors.* Posted on LinkedIn on [July 11, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7349508927132233728/).
+> Posted on LinkedIn on [July 11, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7349508927132233728/).
 
 Take some time off to enjoy reading a paper/book or to just enjoy the beauty of doing research and of generating ideas.
 

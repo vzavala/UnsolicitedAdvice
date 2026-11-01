@@ -1,6 +1,6 @@
 # Write a Script for Your First Talks
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [October 27, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7520918347140677632/).
+> Posted on LinkedIn on [October 27, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7520918347140677632/).
 
 For the first set of presentations of your career, I recommend that you write down *in detail* what you are planning to say. Almost as if it was a movie script. This sounds tedious but has several benefits:
 

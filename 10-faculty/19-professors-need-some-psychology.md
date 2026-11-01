@@ -1,6 +1,6 @@
 # Professors Need Some Psychology
 
-> *Unsolicited advice for young faculty.* Posted on LinkedIn on [March 31, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7312505458143940608/).
+> Posted on LinkedIn on [March 31, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7312505458143940608/).
 
 I went to school to study chemical engineering but I always knew that I could have also studied psychology. 
 

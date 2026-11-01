@@ -1,6 +1,6 @@
 # Build a Research Program Around a Core
 
-> *Unsolicited advice for young faculty.* Posted on LinkedIn on [July 1, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7345787713700143104/).
+> Posted on LinkedIn on [July 1, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7345787713700143104/).
 
 Yesterday I was helping one of my trainees frame her future research program. 
 

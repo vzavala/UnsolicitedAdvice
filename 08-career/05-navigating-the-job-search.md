@@ -1,6 +1,6 @@
 # Navigating the Job Search
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [December 1, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7268996351479209985/).
+> Posted on LinkedIn on [December 1, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7268996351479209985/).
 
 Job applications/interviews can trigger significant excitement and anxiety; here are some things I wish I could go back in time to remind myself of when I was looking for a job.
 

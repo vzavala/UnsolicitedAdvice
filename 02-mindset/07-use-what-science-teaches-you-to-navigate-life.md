@@ -1,6 +1,6 @@
 # Use What Science Teaches You to Navigate Life
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [January 5, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7016774085208657920/).
+> Posted on LinkedIn on [January 5, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7016774085208657920/).
 
 Use what your research has taught you to navigate your life (professionally and personally). Science gives you a way to think about and navigate the world as well as tools to deal with complexity and to solve problems.
 

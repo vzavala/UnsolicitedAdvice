@@ -1,6 +1,6 @@
 # Protect Your Brain
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [October 11, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7117674996348461057/).
+> Posted on LinkedIn on [October 11, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7117674996348461057/).
 
 Learn to protect your brain, this is the most valuable asset that you have. Remember that science is one of the most intellectually challenging professions that exist; you are constantly stretching your brain with new questions/ideas, constantly solving problems, and constantly debating yourself (and others). This constant intellectual stimulation takes a heavy toll on your brain and can lead to effects that appear at different timescales (e.g., daily exhaustion to long-term burnout). Also, your brain can suffer from compounding effects (e.g., stress/anxiety associated with meeting a deadline, personal issues, or uncertainty about your future career). 
 

@@ -1,6 +1,6 @@
 # Ask People About Their Career Paths
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [June 23, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7210657045119660032/).
+> Posted on LinkedIn on [June 23, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7210657045119660032/).
 
 Ask your fellow scientists about their career paths and life stories. How did they end up deciding to get a PhD? Why a PhD in this specific topic? Why going to another country?...
 

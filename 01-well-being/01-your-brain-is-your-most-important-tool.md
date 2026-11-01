@@ -1,6 +1,6 @@
 # Your Brain Is Your Most Important Tool
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [September 23, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7508535699516829699/).
+> Posted on LinkedIn on [September 23, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7508535699516829699/).
 
 I have said it before, but I will say it again. Your brain is your most important tool and your most powerful weapon. Take care of it by all means possible. This is particularly important in science, because we are constantly pushing our brains to the limit (it is an intellectually draining job). 
 

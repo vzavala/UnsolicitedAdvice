@@ -1,6 +1,6 @@
 # Choose Problems That Train Your Students
 
-> *Unsolicited advice for young Faculty.* Posted on LinkedIn on [July 31, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7224545425532338177/).
+> Posted on LinkedIn on [July 31, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7224545425532338177/).
 
 In academic research, we have the default mindset that training of PhDs/postdocs provides a mechanism to solve scientific problems. However, I also find it useful to think the reverse way: the solution of scientific problems provides a mechanism to train PhDs/postdocs.
 

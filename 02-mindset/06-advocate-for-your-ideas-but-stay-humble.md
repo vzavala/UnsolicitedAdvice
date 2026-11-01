@@ -1,6 +1,6 @@
 # Advocate for Your Ideas, but Stay Humble
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [December 30, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7279494643593949184/).
+> Posted on LinkedIn on [December 30, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7279494643593949184/).
 
 At the core of being a scientist is to develop new approaches to tackle problems and to *advocate/justify/sell* why our approaches are better than the alternatives. 
 

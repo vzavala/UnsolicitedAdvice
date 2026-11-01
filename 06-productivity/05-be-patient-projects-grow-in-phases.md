@@ -1,6 +1,6 @@
 # Be Patient: Projects Grow in Phases
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [July 1, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7213557114848337920/).
+> Posted on LinkedIn on [July 1, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7213557114848337920/).
 
 Be patient when conducting research, particularly when it involves multi-disciplinary collaborations/projects. 
 

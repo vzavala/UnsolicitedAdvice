@@ -1,6 +1,6 @@
 # Norms for Productive Group Discussions
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [October 21, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7386386719333539840/).
+> Posted on LinkedIn on [October 21, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7386386719333539840/).
 
 As I get older, I find myself in positions in which I have to coordinate discussions between large groups of people. Managing such conversations can be challenging if there are no established norms/bounds of behavior. 
 

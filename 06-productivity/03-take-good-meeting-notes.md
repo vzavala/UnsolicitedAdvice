@@ -1,6 +1,6 @@
 # Take Good Meeting Notes
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [October 17, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7252723428581879808/).
+> Posted on LinkedIn on [October 17, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7252723428581879808/).
 
 Learn to document technical discussions by taking *good* meeting notes. 
 

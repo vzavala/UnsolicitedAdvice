@@ -1,6 +1,6 @@
 # Question Everything and Everyone
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [January 2, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7412939914943823872/).
+> Posted on LinkedIn on [January 2, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7412939914943823872/).
 
 Question everything and everyone. 
 

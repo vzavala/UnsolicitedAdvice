@@ -1,6 +1,6 @@
 # Writing Proposals for Multidisciplinary Panels
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [January 17, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7153182763238522880/).
+> Posted on LinkedIn on [January 17, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7153182763238522880/).
 
 Sometimes your proposals will be reviewed by a multi-disciplinary panel that is composed of scientists that are not in your research field (I have participated as a reviewer in such panels). 
 

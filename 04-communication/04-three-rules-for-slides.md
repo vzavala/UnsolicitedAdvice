@@ -1,6 +1,6 @@
 # Three Rules for Slides
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [February 15, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7296344249174736896/).
+> Posted on LinkedIn on [February 15, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7296344249174736896/).
 
 This week I have been chatting with some of my students about how to give presentations. This is all an art but, over the years, I continue to converge to the following 3 points that define my own style:
 

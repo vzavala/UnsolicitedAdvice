@@ -1,6 +1,6 @@
 # Imagine the Seminar You'd Give
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [February 22, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7299087666808008706/).
+> Posted on LinkedIn on [February 22, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7299087666808008706/).
 
 Sometimes I like to plan/guide a research direction by trying to imagine myself giving a seminar on this topic. 
 

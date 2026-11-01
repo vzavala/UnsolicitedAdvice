@@ -1,6 +1,6 @@
 # Keep Notation Consistent and Compact
 
-> *Unsolicited advice for young scientists doing math/computation research.* Posted on LinkedIn on [September 5, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7369703578841600008/).
+> Posted on LinkedIn on [September 5, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7369703578841600008/).
 
 Yesterday I was chatting with one of my students about the importance of having consistent and compact mathematical notation.
 

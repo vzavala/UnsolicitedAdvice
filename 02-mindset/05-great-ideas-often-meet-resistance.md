@@ -1,6 +1,6 @@
 # Great Ideas Often Meet Resistance
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [August 22, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7232189382114304000/).
+> Posted on LinkedIn on [August 22, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7232189382114304000/).
 
 I was talking Today to one of my trainees about how new ideas and ways of thinking can be received with a lot of resistance.
 

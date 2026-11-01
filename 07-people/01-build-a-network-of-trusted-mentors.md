@@ -1,6 +1,6 @@
 # Build a Network of Trusted Mentors
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [March 10, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7437139123842342912/).
+> Posted on LinkedIn on [March 10, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7437139123842342912/).
 
 Build yourself a network of trusted mentors. Your PhD advisor cannot be your sole source of mentorship. Your network can include senior students, postdocs, other faculty at your institution or in the community, industry folks, staff, and so on. It is important to get perspective from people with different backgrounds. 
 

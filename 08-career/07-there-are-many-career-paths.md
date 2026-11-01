@@ -1,6 +1,6 @@
 # There Are Many Career Paths
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [January 25, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7156424422420094976/).
+> Posted on LinkedIn on [January 25, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7156424422420094976/).
 
 When we imagine a scientist, we imagine a person in the lab, doing field trails, or doing coding/theory. 
 

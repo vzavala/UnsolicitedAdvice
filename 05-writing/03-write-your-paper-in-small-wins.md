@@ -1,6 +1,6 @@
 # Write Your Paper in Small Wins
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [June 5, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7336185313733636096/).
+> Posted on LinkedIn on [June 5, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7336185313733636096/).
 
 If you are struggling writing that pesky paper, you can try to break this project into "small wins." 
 

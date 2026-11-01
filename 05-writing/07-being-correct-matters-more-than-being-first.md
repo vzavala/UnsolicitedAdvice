@@ -1,6 +1,6 @@
 # Being Correct Matters More Than Being First
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [July 30, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7356271908037775360/).
+> Posted on LinkedIn on [July 30, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7356271908037775360/).
 
 It is important to be the first to publish a result, but it is perhaps more important to do things correctly.
 

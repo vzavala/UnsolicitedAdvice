@@ -1,6 +1,6 @@
 # Where to Find Research Problems
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [January 12, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7151378906061619201/).
+> Posted on LinkedIn on [January 12, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7151378906061619201/).
 
 One of the most difficult aspects of starting an independent scientific career is identifying suitable problems/areas to work on. 
 

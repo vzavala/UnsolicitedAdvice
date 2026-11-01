@@ -1,6 +1,6 @@
 # Write Down Your Ideas and Let Them Mature
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [October 28, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7124020760586682368/).
+> Posted on LinkedIn on [October 28, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7124020760586682368/).
 
 Throughout your career, you will come up with lots of ideas/problems that you can potentially work on. At times this can feel overwhelming/stressful, because you have limited time and you have other priorities that you need to pay attention to (e.g., existing collaborations). At times you might also feel a sense of urgency to pursue these ideas (as other researchers around the world might pursue them first!). 
 

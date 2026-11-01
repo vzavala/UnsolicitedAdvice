@@ -1,6 +1,6 @@
 # The First Paper Is the Hardest
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [April 4, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7313717545696407552/).
+> Posted on LinkedIn on [April 4, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7313717545696407552/).
 
 It is an awesome feeling to get the 1st paper of your PhD published. The sense of accomplishment is unmatched. I remember showing my paper to my parents because I felt so proud :) 
 

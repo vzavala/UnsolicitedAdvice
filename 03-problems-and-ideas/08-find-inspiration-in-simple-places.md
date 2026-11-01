@@ -1,6 +1,6 @@
 # Find Inspiration in Simple Places
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [August 11, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7095587760631152640/).
+> Posted on LinkedIn on [August 11, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7095587760631152640/).
 
 Try to find inspiration for your research (no matter how complex it seems) in simple places (e.g., nature, home, sports, daily life, art). 
 

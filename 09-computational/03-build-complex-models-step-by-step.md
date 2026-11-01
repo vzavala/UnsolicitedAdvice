@@ -1,6 +1,6 @@
 # Build Complex Models Step by Step
 
-> *Unsolicited advice for young scientists doing computational modeling.* Posted on LinkedIn on [September 21, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7110432672971165696/).
+> Posted on LinkedIn on [September 21, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7110432672971165696/).
 
 When implementing a highly complex model, it is important to develop a strategy to *progressively* build this up, debug it, and validate it. 
 

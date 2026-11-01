@@ -1,6 +1,6 @@
 # What the PhD Teaches You
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [April 18, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7318974173219811328/).
+> Posted on LinkedIn on [April 18, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7318974173219811328/).
 
 The PhD is a comprehensive training experience from a professional and personal standpoint. 
 

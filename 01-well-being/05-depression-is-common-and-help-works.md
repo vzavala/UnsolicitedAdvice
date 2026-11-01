@@ -1,6 +1,6 @@
 # Depression Is Common, and Help Works
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [May 26, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7332740589060313088/).
+> Posted on LinkedIn on [May 26, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7332740589060313088/).
 
 When I was younger I faced significant depression. This is more common than not in society and tends to magnify in scientific environments (e.g., due to sustained periods of isolation, strong competition, high expectations). 
 

@@ -1,6 +1,6 @@
 # Systems Thinking in Mentoring
 
-> *Unsolicited advice for young faculty.* Posted on LinkedIn on [January 27, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7157009541925105665/).
+> Posted on LinkedIn on [January 27, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7157009541925105665/).
 
 How can "systems thinking" help mentorship? 
 

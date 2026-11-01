@@ -1,6 +1,6 @@
 # Make Writing Fun
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [July 31, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7091781145620578304/).
+> Posted on LinkedIn on [July 31, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7091781145620578304/).
 
 Many scientists struggle with technical writing; this is not an easy skill to acquire and requires lots of patience/practice. Sometimes it is challenging to get yourself motivated to write, as this can require significant intellectual energy and focus. 
 

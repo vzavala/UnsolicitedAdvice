@@ -1,6 +1,6 @@
 # Competition, Insecurity and Inclusive Cultures
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [August 19, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7363539502956498945/).
+> Posted on LinkedIn on [August 19, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7363539502956498945/).
 
 Highly competitive environments tend to trigger insecurities and comparisons: "This person is smarter/better than me", "I am never going to be as good as them", ... 
 

@@ -1,6 +1,6 @@
 # Learn to Say No
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [July 28, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7487872426744115201/).
+> Posted on LinkedIn on [July 28, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7487872426744115201/).
 
 Saying "No" is 1000 times more difficult than saying "Yes." 
 

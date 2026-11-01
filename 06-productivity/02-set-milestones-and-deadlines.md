@@ -1,6 +1,6 @@
 # Set Milestones and Deadlines
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [November 12, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7129483548083834880/).
+> Posted on LinkedIn on [November 12, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7129483548083834880/).
 
 Set clear milestones (and deadlines) for you and your work. This is important to keep you on track with your productivity but it also helps you revisit/review all the work that you have done and helps you make future plans. I also think that setting milestones is key for keeping yourself motivated, organized, and for controlling uncertainty/anxiety. 
 

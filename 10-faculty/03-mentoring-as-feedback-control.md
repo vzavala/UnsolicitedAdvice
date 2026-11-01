@@ -1,6 +1,6 @@
 # Mentoring as Feedback Control
 
-> *Unsolicited advice for young Faculty.* Posted on LinkedIn on [November 26, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7134578138507878400/).
+> Posted on LinkedIn on [November 26, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7134578138507878400/).
 
 Witnessing the growth of your PhD trainees is one of the greatest pleasures of being a Professor. Promoting growth requires of careful planning, monitoring, and feedback. There are many strategies/philosophies for doing this, as mentoring is also one of the most challenging aspects of being a Professor. 
 

@@ -1,6 +1,6 @@
 # Start from a Specific Application
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [August 3, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7357704279874301952/).
+> Posted on LinkedIn on [August 3, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7357704279874301952/).
 
 A strategy that I use to identify research problems to work on is to think of a *specific* application that will benefit from such research.
 

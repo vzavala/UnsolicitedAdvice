@@ -1,6 +1,6 @@
 # Math Teaches You How to Learn
 
-> *Unsolicited advice for young scientists doing computational research.* Posted on LinkedIn on [January 30, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7290719210417111040/).
+> Posted on LinkedIn on [January 30, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7290719210417111040/).
 
 Just listened to an interview of Cleve Moler (creator of Matlab) on the value of learning mathematics. 
 

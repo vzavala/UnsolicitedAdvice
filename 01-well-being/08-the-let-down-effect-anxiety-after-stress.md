@@ -1,6 +1,6 @@
 # The Let-Down Effect: Anxiety After Stress
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [June 1, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7467222622519529473/).
+> Posted on LinkedIn on [June 1, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7467222622519529473/).
 
 Since early May I have been experiencing some significant anxiety/panic episodes.  I have experienced these every year (over the past 8 years) and they normally appear as the academic year ends and you start relaxing and entering the summer session. Fortunately the episodes are now fading away, but it has taken nearly one month and a lot of hard work to go back to normal. 
 

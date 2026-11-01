@@ -1,6 +1,6 @@
 # Three Things I Wish I'd Known When Starting My PhD
 
-> *Unsolicited advice for young scientists (particularly those starting their PhD).* Posted on LinkedIn on [September 3, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7236533047527890944/).
+> Posted on LinkedIn on [September 3, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7236533047527890944/).
 
 Here are 3 things I wish I could go back in time and tell myself when I was starting my PhD: 
 

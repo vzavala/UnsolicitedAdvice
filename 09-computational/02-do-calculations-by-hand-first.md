@@ -1,6 +1,6 @@
 # Do Calculations by Hand First
 
-> *Unsolicited advice for young scientists doing computational modeling.* Posted on LinkedIn on [February 24, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7167163381718732800/).
+> Posted on LinkedIn on [February 24, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7167163381718732800/).
 
 There is something beautiful/powerful about doing calculations/analysis/derivations *by hand*. Before relying on the computer to do this for you on the full problem, it is extremely helpful to first analyze a simplified version of the problem by hand. 
 

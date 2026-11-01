@@ -1,6 +1,6 @@
 # Be Careful When You Compare Yourself to Others
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [May 2, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7191781099356721153/).
+> Posted on LinkedIn on [May 2, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7191781099356721153/).
 
 Be careful when you compare yourself to others. When I started my PhD, I thought that I would never reach the level of senior PhDs/postdocs and I also didn't quite understand if my skills, work, and perspectives were gonna be valuable. Same happened in my professional career; when I got started, it was difficult to appreciate if I was "good enough." 
 

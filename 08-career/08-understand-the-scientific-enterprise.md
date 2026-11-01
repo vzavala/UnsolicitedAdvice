@@ -1,6 +1,6 @@
 # Understand the Scientific Enterprise
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [November 27, 2022](https://www.linkedin.com/feed/update/urn:li:activity:7002695356387917824/).
+> Posted on LinkedIn on [November 27, 2022](https://www.linkedin.com/feed/update/urn:li:activity:7002695356387917824/).
 
 It is important to understand how the scientific enterprise works (e.g., who is funding my research? how does my research benefit my sponsors/society/taxpayers? how do my results can benefit education and advance knowledge? how can I get involved in outreach and dissemination? how does my science can influence policy/law?) 
 

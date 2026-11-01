@@ -1,6 +1,6 @@
 # Language Matters: Know Your Audience
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [March 1, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7169350701586866177/).
+> Posted on LinkedIn on [March 1, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7169350701586866177/).
 
 When I was in my postdoc, I remember a senior scientist telling me... "try not to use the word *control* if you present your work to a congressperson, maybe use *optimization*... the word *control* has political connotations." At the time I found this to be amusing but, when I eventually had the chance to present my work to a politician, I realized that language does matter, and it matters *a lot*. 
 

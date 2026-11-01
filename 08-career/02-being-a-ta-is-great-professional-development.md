@@ -1,6 +1,6 @@
 # Being a TA Is Great Professional Development
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [December 17, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7407048960240107521/).
+> Posted on LinkedIn on [December 17, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7407048960240107521/).
 
 Working as a Teaching Assistant (TA) is a rather unique and excellent professional development opportunity that can help you acquire diverse skills (even if you are not considering a career in academia): 
 

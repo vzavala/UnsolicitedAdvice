@@ -1,6 +1,6 @@
 # Time Management Is an Underrated Skill
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [August 29, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7234738258805415938/).
+> Posted on LinkedIn on [August 29, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7234738258805415938/).
 
 When I was a PhD student, I somehow had the idea that scientists were absent-minded entities that randomly came up with ideas and papers, that they had zero work structure and organization skills.
 

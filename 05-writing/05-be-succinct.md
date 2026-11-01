@@ -1,6 +1,6 @@
 # Be Succinct
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [March 23, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7309697567372546048/).
+> Posted on LinkedIn on [March 23, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7309697567372546048/).
 
 It is exponentially more difficult to write a 2-page proposal/paper/report than a 15-page one. This is because you really need to be *succinct* about what you want to communicate and how you want to communicate it. Being succinct is a skill that does not come easy and I initially found (and still find) super challenging. 
 

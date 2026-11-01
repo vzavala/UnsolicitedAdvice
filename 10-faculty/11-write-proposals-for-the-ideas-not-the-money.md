@@ -1,6 +1,6 @@
 # Write Proposals for the Ideas, Not the Money
 
-> *Unsolicited advice for young Faculty.* Posted on LinkedIn on [December 6, 2022](https://www.linkedin.com/feed/update/urn:li:activity:7005893497190830080/).
+> Posted on LinkedIn on [December 6, 2022](https://www.linkedin.com/feed/update/urn:li:activity:7005893497190830080/).
 
 Writing proposals can be difficult and stressful. To get yourself motivated, try to make it less about the money that you expect to obtain and more about the process of generating/refining ideas and establishing collaborations. I know, it is difficult when you need the money, but try. 
 

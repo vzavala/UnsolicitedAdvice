@@ -1,6 +1,6 @@
 # Self-Awareness Is Underrated
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [June 28, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7477022988173778944/).
+> Posted on LinkedIn on [June 28, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7477022988173778944/).
 
 A highly underrated ability is that of *self-awareness.* Self-awareness is the ability to monitor our emotions/actions and the impact that they have on other people. 
 

@@ -1,6 +1,6 @@
 # Do Your Homework Before a Visit
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [January 31, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7423400271776735232/).
+> Posted on LinkedIn on [January 31, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7423400271776735232/).
 
 When you are visiting a university/lab/company (either to give a seminar, to interview, or even if just visiting), it is important to "do your homework."
 

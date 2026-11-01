@@ -1,6 +1,6 @@
 # Algorithms for Everyday Life
 
-> *Unsolicited advice for young scientists doing computational research.* Posted on LinkedIn on [December 22, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7143972905163403264/).
+> Posted on LinkedIn on [December 22, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7143972905163403264/).
 
 Algorithms are much more than frameworks to solve mathematical problems, they are frameworks/paradigms that help you navigate and solve problems that arise in your daily life. 
 

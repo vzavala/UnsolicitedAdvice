@@ -1,6 +1,6 @@
 # Think Before You Hit "Solve"
 
-> *Unsolicited advice for young scientists doing computational research.* Posted on LinkedIn on [February 2, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7291827234682585088/).
+> Posted on LinkedIn on [February 2, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7291827234682585088/).
 
 There is A LOT that you should do BEFORE hitting that “solve” button and execute your computational model. 
 

@@ -1,6 +1,6 @@
 # Keep Doing Actual Research
 
-> *Unsolicited advice for young faculty.* Posted on LinkedIn on [December 9, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7271905889060577280/).
+> Posted on LinkedIn on [December 9, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7271905889060577280/).
 
 As you know, faculty life can be super demanding with teaching, service, mentoring, committees, events, travel, reporting, proposal-writing, ....
 

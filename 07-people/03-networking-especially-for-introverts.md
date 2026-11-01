@@ -1,6 +1,6 @@
 # Networking, Especially for Introverts
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [April 7, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7182872626225164288/).
+> Posted on LinkedIn on [April 7, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7182872626225164288/).
 
 Networking is one of the most important aspects of developing a scientific career. This is because it is important that people (academics and industry) are aware of your work for you to have impact. Moreover, networking is an essential part of identifying research collaborations and of finding jobs and funding.
 

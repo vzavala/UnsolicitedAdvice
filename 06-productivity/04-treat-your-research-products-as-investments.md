@@ -1,6 +1,6 @@
 # Treat Your Research Products as Investments
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [July 26, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7090113973773062144/).
+> Posted on LinkedIn on [July 26, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7090113973773062144/).
 
 Think about your research products (e.g., data, models, code, experiments, figures, papers, slides, proposals) as an investment. 
 

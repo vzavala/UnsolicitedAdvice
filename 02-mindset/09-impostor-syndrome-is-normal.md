@@ -1,6 +1,6 @@
 # Impostor Syndrome Is Normal
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [April 10, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7316073485850628099/).
+> Posted on LinkedIn on [April 10, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7316073485850628099/).
 
 Impostor syndrome is fairly common in scientific environments. 
 

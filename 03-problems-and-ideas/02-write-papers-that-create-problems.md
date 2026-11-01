@@ -1,6 +1,6 @@
 # Write Papers That Create Problems
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [June 10, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7206082516229791744/).
+> Posted on LinkedIn on [June 10, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7206082516229791744/).
 
 Someone once told me that it is great to write papers that solve problems but that it is even better to write papers that “create problems.” 
 

@@ -1,6 +1,6 @@
 # Mentoring Is an Emotional Investment
 
-> *Unsolicited advice for young faculty.* Posted on LinkedIn on [June 1, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7335050741960626176/).
+> Posted on LinkedIn on [June 1, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7335050741960626176/).
 
 Mentorship is not only an investment of time, it is also an investment of emotional energy.
 

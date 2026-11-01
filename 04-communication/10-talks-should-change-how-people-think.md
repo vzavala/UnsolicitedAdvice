@@ -1,6 +1,6 @@
 # Talks Should Change How People Think
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [April 7, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7447311638858469378/).
+> Posted on LinkedIn on [April 7, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7447311638858469378/).
 
 As an academic, one of my main goals when I give a lecture/talk/seminar is to try to *change the way people think.*  You want people coming out of that talk seeing the world differently or thinking about a subject differently.
 

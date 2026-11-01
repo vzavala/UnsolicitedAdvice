@@ -1,6 +1,6 @@
 # Your Specialty Can Be Building Bridges
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [July 21, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7353145593147346945/).
+> Posted on LinkedIn on [July 21, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7353145593147346945/).
 
 One of the really cool aspects of working in systems engineering is that you tend to sit at an intersection of fields/areas. As a result, you get exposed to ideas, concepts, and approaches from many different communities (e.g., math, physics, all engineering, chemistry, economics, social sciences, computer science). 
 

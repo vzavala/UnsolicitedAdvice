@@ -1,6 +1,6 @@
 # How to Be a Good Mentee
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [September 15, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7240890579478306816/).
+> Posted on LinkedIn on [September 15, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7240890579478306816/).
 
 It is super important to have a good mentor, but it is equally important to know how to be a good mentee. 
 

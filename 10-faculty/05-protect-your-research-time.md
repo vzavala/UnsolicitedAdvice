@@ -1,6 +1,6 @@
 # Protect Your Research Time
 
-> *Unsolicited advice for young Faculty.* Posted on LinkedIn on [December 28, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7146135307862573057/).
+> Posted on LinkedIn on [December 28, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7146135307862573057/).
 
 As the new academic semester approaches, remember to block portions of your calendar so that you can focus on research/science and protect those blocks of time religiously. 
 

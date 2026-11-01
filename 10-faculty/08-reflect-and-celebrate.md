@@ -1,6 +1,6 @@
 # Reflect and Celebrate
 
-> *Unsolicited advice for young Faculty.* Posted on LinkedIn on [August 17, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7097915431348289537/).
+> Posted on LinkedIn on [August 17, 2023](https://www.linkedin.com/feed/update/urn:li:activity:7097915431348289537/).
 
 Take some time every week or month to reflect on all the things that you are accomplishing.
 

@@ -1,6 +1,6 @@
 # Don't Work When You're Tired
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [April 19, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7451453557406334976/).
+> Posted on LinkedIn on [April 19, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7451453557406334976/).
 
 Avoid working when you feel tired.
 

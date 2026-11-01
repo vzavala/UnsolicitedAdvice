@@ -1,6 +1,6 @@
 # Go Easy on the Math in Talks
 
-> *Unsolicited advice for young scientists doing computational research.* Posted on LinkedIn on [August 14, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7229548741672808448/).
+> Posted on LinkedIn on [August 14, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7229548741672808448/).
 
 Think very carefully/strategically about how much math you want to include in your presentations. It is very easy for an audience to get overwhelmed by math (even for a highly technical audience). 
 

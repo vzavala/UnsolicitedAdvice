@@ -1,6 +1,6 @@
 # Talks Should Get People Excited
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [October 9, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7382153851707215872/).
+> Posted on LinkedIn on [October 9, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7382153851707215872/).
 
 In my opinion, your primary goal when giving a presentation is to get people excited.
 

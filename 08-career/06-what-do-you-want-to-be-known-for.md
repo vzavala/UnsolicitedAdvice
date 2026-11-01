@@ -1,6 +1,6 @@
 # What Do You Want to Be Known For?
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [January 7, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7414776725727002624/).
+> Posted on LinkedIn on [January 7, 2026](https://www.linkedin.com/feed/update/urn:li:activity:7414776725727002624/).
 
 When I was interviewing for faculty jobs, a Professor asked me: “What do you want to be known for?"
 

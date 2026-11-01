@@ -1,6 +1,6 @@
 # Models Are Useful Beyond Prediction
 
-> *Unsolicited advice for young scientists doing computational modeling.* Posted on LinkedIn on [January 5, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7149030003706331136/).
+> Posted on LinkedIn on [January 5, 2024](https://www.linkedin.com/feed/update/urn:li:activity:7149030003706331136/).
 
 There is a common perception that a model is only useful when it can predict the behavior of a “real” system or match experimental data. I think this perception is narrow and can ultimately promote a disconnect between experimental and computational research. 
 

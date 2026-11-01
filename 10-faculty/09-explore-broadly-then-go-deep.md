@@ -1,6 +1,6 @@
 # Explore Broadly, Then Go Deep
 
-> *Unsolicited advice for young scientists.* Posted on LinkedIn on [March 10, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7304850400275243008/).
+> Posted on LinkedIn on [March 10, 2025](https://www.linkedin.com/feed/update/urn:li:activity:7304850400275243008/).
 
 A common challenge in establishing a research program is to figure out how wide/deep you want to go in your research directions. You want to have a suitable trade-off of breadth and depth. 
 
