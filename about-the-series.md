@@ -34,17 +34,22 @@ In October 2026 the posts were collected into this book and organized by theme i
 | 2025 | 58 |
 | 2026 (through Oct) | 23 |
 
-## The most popular posts
+## The 10 most popular posts
 
-Among the first 82 posts, which together received about 44,500 reactions and about 1,200 comments and 1,200 reposts:
+Ranked by reactions among the first 82 posts, which together received about 44,500 reactions, 1,200 comments and 1,200 reposts. Newer posts aren't ranked yet.
 
-| Post | Reactions |
-|---|---|
-| [It's Normal to Start a PhD Without Experience](02-mindset/01-its-normal-to-start-a-phd-without-experience.md) | 2,838 |
-| [Make the Most of Your Postdoc](08-career/04-make-the-most-of-your-postdoc.md) | 1,542 |
-| [Make Time for Focused Thinking](03-problems-and-ideas/06-make-time-for-focused-thinking.md) | 1,261 |
-| [Your Brain Is Your Most Important Tool](01-well-being/01-your-brain-is-your-most-important-tool.md) | 1,218 |
-| [Get Involved in Teaching](08-career/03-get-involved-in-teaching.md) | 1,202 |
+| # | Post | Reactions | Comments | Reposts |
+|---|---|---|---|---|
+| 1 | [It's Normal to Start a PhD Without Experience](02-mindset/01-its-normal-to-start-a-phd-without-experience.md) | 2,838 | 74 | 52 |
+| 2 | [Make the Most of Your Postdoc](08-career/04-make-the-most-of-your-postdoc.md) | 1,542 | 31 | 50 |
+| 3 | [Make Time for Focused Thinking](03-problems-and-ideas/06-make-time-for-focused-thinking.md) | 1,261 | 20 | 47 |
+| 4 | [Your Brain Is Your Most Important Tool](01-well-being/01-your-brain-is-your-most-important-tool.md) | 1,218 | 24 | 41 |
+| 5 | [Get Involved in Teaching](08-career/03-get-involved-in-teaching.md) | 1,202 | 16 | 33 |
+| 6 | [Finding the Right Question Is the Hard Part](03-problems-and-ideas/01-finding-the-right-question-is-the-hard-part.md) | 1,084 | 21 | 24 |
+| 7 | [Write Down Your Ideas and Let Them Mature](03-problems-and-ideas/10-write-down-your-ideas-and-let-them-mature.md) | 1,066 | 27 | 40 |
+| 8 | [Protect Your Brain](01-well-being/02-protect-your-brain.md) | 1,064 | 22 | 57 |
+| 9 | [Do Calculations by Hand First](09-computational/02-do-calculations-by-hand-first.md) | 1,047 | 38 | 47 |
+| 10 | [Build Complex Models Step by Step](09-computational/03-build-complex-models-step-by-step.md) | 1,038 | 32 | 33 |
 
 *Figures are as of October 2026.*
 
