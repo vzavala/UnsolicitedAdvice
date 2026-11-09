@@ -1,0 +1,195 @@
+# Tabla de contenido de la edición en español (copia de ../_toc.yml con títulos traducidos)
+format: jb-book
+root: intro
+parts:
+  - caption: "Para empezar"
+    chapters:
+      - file: preface
+      - file: how-to-use
+  - caption: "Parte 1: Bienestar y salud mental"
+    chapters:
+      - file: 01-well-being/index
+        title: Introducción
+        sections:
+          - file: 01-well-being/01-your-brain-is-your-most-important-tool
+          - file: 01-well-being/02-protect-your-brain
+          - file: 01-well-being/03-dont-work-when-youre-tired
+          - file: 01-well-being/04-three-things-i-wish-id-known-when-starting-my-phd
+          - file: 01-well-being/05-depression-is-common-and-help-works
+          - file: 01-well-being/06-escape-the-i-need-to-mindset-make-time-to-play
+          - file: 01-well-being/07-the-let-down-effect-anxiety-after-stress
+          - file: 01-well-being/08-running-as-a-way-to-manage-anxiety
+          - file: 01-well-being/09-the-runners-high-and-clear-thinking
+  - caption: "Parte 2: Mentalidad, confianza y resiliencia"
+    chapters:
+      - file: 02-mindset/index
+        title: Introducción
+        sections:
+          - file: 02-mindset/01-its-normal-to-start-a-phd-without-experience
+          - file: 02-mindset/02-be-careful-when-you-compare-yourself-to-others
+          - file: 02-mindset/03-competition-insecurity-and-inclusive-cultures
+          - file: 02-mindset/04-question-everything-and-everyone
+          - file: 02-mindset/05-great-ideas-often-meet-resistance
+          - file: 02-mindset/06-advocate-for-your-ideas-but-stay-humble
+          - file: 02-mindset/07-use-what-science-teaches-you-to-navigate-life
+          - file: 02-mindset/08-points-games-and-sets-lessons-from-agassi
+          - file: 02-mindset/09-impostor-syndrome-is-normal
+          - file: 02-mindset/10-education-is-a-gym-for-the-mind
+          - file: 02-mindset/11-enjoy-the-journey-not-just-the-outcome
+          - file: 02-mindset/12-you-try-you-fail-you-try-again
+          - file: 02-mindset/13-lessons-from-federer-on-resilience
+          - file: 02-mindset/14-confidence-is-built-not-innate
+          - file: 02-mindset/15-embrace-your-naivete
+          - file: 02-mindset/16-learning-to-cope-with-criticism
+  - caption: "Parte 3: Elegir problemas y generar ideas"
+    chapters:
+      - file: 03-problems-and-ideas/index
+        title: Introducción
+        sections:
+          - file: 03-problems-and-ideas/01-finding-the-right-question-is-the-hard-part
+          - file: 03-problems-and-ideas/02-write-papers-that-create-problems
+          - file: 03-problems-and-ideas/03-separate-the-fundamental-from-the-applied
+          - file: 03-problems-and-ideas/04-start-from-a-specific-application
+          - file: 03-problems-and-ideas/05-imagine-the-seminar-youd-give
+          - file: 03-problems-and-ideas/06-make-time-for-focused-thinking
+          - file: 03-problems-and-ideas/07-learn-the-art-of-reductionism
+          - file: 03-problems-and-ideas/08-find-inspiration-in-simple-places
+          - file: 03-problems-and-ideas/09-connect-with-seemingly-unrelated-fields
+          - file: 03-problems-and-ideas/10-write-down-your-ideas-and-let-them-mature
+          - file: 03-problems-and-ideas/11-your-specialty-can-be-building-bridges
+          - file: 03-problems-and-ideas/12-the-four-elements-of-research
+  - caption: "Parte 4: Comunicar la ciencia"
+    chapters:
+      - file: 04-communication/index
+        title: Introducción
+        sections:
+          - file: 04-communication/01-science-is-about-selling-ideas
+          - file: 04-communication/02-talks-should-get-people-excited
+          - file: 04-communication/03-sketch-your-talk-before-making-slides
+          - file: 04-communication/04-three-rules-for-slides
+          - file: 04-communication/05-get-to-the-point-lead-with-results
+          - file: 04-communication/06-language-matters-know-your-audience
+          - file: 04-communication/07-make-it-relatable-the-ice-cream-lesson
+          - file: 04-communication/08-be-an-open-and-confident-communicator
+          - file: 04-communication/09-write-a-script-for-your-first-talks
+          - file: 04-communication/10-talks-should-change-how-people-think
+          - file: 04-communication/11-put-acknowledgments-first
+          - file: 04-communication/12-include-a-personal-intro-slide
+          - file: 04-communication/13-a-poster-without-the-poster-tube
+  - caption: "Parte 5: Escribir artículos y propuestas"
+    chapters:
+      - file: 05-writing/index
+        title: Introducción
+        sections:
+          - file: 05-writing/01-writing-helps-you-think
+          - file: 05-writing/02-the-first-paper-is-the-hardest
+          - file: 05-writing/03-write-your-paper-in-small-wins
+          - file: 05-writing/04-make-writing-fun
+          - file: 05-writing/05-be-succinct
+          - file: 05-writing/06-not-every-paper-has-to-be-a-home-run
+          - file: 05-writing/07-being-correct-matters-more-than-being-first
+          - file: 05-writing/08-writing-proposals-for-multidisciplinary-panels
+          - file: 05-writing/09-in-the-era-of-ai-the-process-matters
+          - file: 05-writing/10-sketch-an-outline-before-you-write
+          - file: 05-writing/11-resources-for-becoming-a-good-reviewer
+          - file: 05-writing/12-be-thorough-but-efficient-as-a-reviewer
+  - caption: "Parte 6: Productividad y organización"
+    chapters:
+      - file: 06-productivity/index
+        title: Introducción
+        sections:
+          - file: 06-productivity/01-time-management-is-an-underrated-skill
+          - file: 06-productivity/02-set-milestones-and-deadlines
+          - file: 06-productivity/03-take-good-meeting-notes
+          - file: 06-productivity/04-treat-your-research-products-as-investments
+          - file: 06-productivity/05-be-patient-projects-grow-in-phases
+          - file: 06-productivity/06-learn-to-say-no
+          - file: 06-productivity/07-plan-your-day-in-time-slots
+  - caption: "Parte 7: Mentores, redes y trabajo con personas"
+    chapters:
+      - file: 07-people/index
+        title: Introducción
+        sections:
+          - file: 07-people/01-build-a-network-of-trusted-mentors
+          - file: 07-people/02-how-to-be-a-good-mentee
+          - file: 07-people/03-networking-especially-for-introverts
+          - file: 07-people/04-self-awareness-is-underrated
+          - file: 07-people/05-dont-neglect-the-social-side-of-science
+          - file: 07-people/06-learn-from-other-cultures
+          - file: 07-people/07-ask-people-about-their-career-paths
+          - file: 07-people/08-do-your-homework-before-a-visit
+          - file: 07-people/09-mentoring-is-built-on-mutual-trust
+          - file: 07-people/10-conferences-for-introverts
+          - file: 07-people/11-norms-for-productive-group-discussions
+          - file: 07-people/12-what-should-you-call-your-professor
+          - file: 07-people/13-college-is-also-about-networks
+          - file: 07-people/14-if-you-want-it-to-happen-start-it-yourself
+  - caption: "Parte 8: Desarrollo profesional"
+    chapters:
+      - file: 08-career/index
+        title: Introducción
+        sections:
+          - file: 08-career/01-what-the-phd-teaches-you
+          - file: 08-career/02-being-a-ta-is-great-professional-development
+          - file: 08-career/03-get-involved-in-teaching
+          - file: 08-career/04-make-the-most-of-your-postdoc
+          - file: 08-career/05-navigating-the-job-search
+          - file: 08-career/06-what-do-you-want-to-be-known-for
+          - file: 08-career/07-there-are-many-career-paths
+          - file: 08-career/08-understand-the-scientific-enterprise
+          - file: 08-career/09-what-makes-the-phd-so-challenging
+          - file: 08-career/10-becoming-an-independent-researcher
+  - caption: "Parte 9: Investigación computacional y matemática"
+    chapters:
+      - file: 09-computational/index
+        title: Introducción
+        sections:
+          - file: 09-computational/01-think-before-you-hit-solve
+          - file: 09-computational/02-do-calculations-by-hand-first
+          - file: 09-computational/03-build-complex-models-step-by-step
+          - file: 09-computational/04-test-your-code-at-the-extremes
+          - file: 09-computational/05-algorithms-dont-understand-physics
+          - file: 09-computational/06-models-are-useful-beyond-prediction
+          - file: 09-computational/07-keep-notation-consistent-and-compact
+          - file: 09-computational/08-go-easy-on-the-math-in-talks
+          - file: 09-computational/09-learn-several-programming-languages
+          - file: 09-computational/10-you-dont-have-to-be-amazing-at-coding-or-math
+          - file: 09-computational/11-algorithms-for-everyday-life
+          - file: 09-computational/12-complexity-vs-insight-in-optimization-models
+          - file: 09-computational/13-impact-doesnt-have-to-mean-commercialization
+          - file: 09-computational/14-getting-started-in-data-science-and-machine-learning
+          - file: 09-computational/15-share-your-data-and-code
+          - file: 09-computational/16-math-teaches-you-how-to-learn
+  - caption: "Parte 10: Para profesores jóvenes"
+    chapters:
+      - file: 10-faculty/index
+        title: Introducción
+        sections:
+          - file: 10-faculty/01-trust-your-students
+          - file: 10-faculty/02-give-hard-feedback-with-care
+          - file: 10-faculty/03-mentoring-as-feedback-control
+          - file: 10-faculty/04-choose-problems-that-train-your-students
+          - file: 10-faculty/05-protect-your-research-time
+          - file: 10-faculty/06-keep-doing-actual-research
+          - file: 10-faculty/07-read-for-pleasure
+          - file: 10-faculty/08-reflect-and-celebrate
+          - file: 10-faculty/09-explore-broadly-then-go-deep
+          - file: 10-faculty/10-where-to-find-research-problems
+          - file: 10-faculty/11-write-proposals-for-the-ideas-not-the-money
+          - file: 10-faculty/12-organize-events
+          - file: 10-faculty/13-teach-students-to-handle-ill-defined-problems
+          - file: 10-faculty/14-balancing-commitments-as-a-professor
+          - file: 10-faculty/15-what-goes-into-designing-a-course
+          - file: 10-faculty/16-build-a-research-program-around-a-core
+          - file: 10-faculty/17-help-mentees-discover-their-strengths
+          - file: 10-faculty/18-mentoring-is-an-emotional-investment
+          - file: 10-faculty/19-professors-need-some-psychology
+          - file: 10-faculty/20-the-best-mentors-genuinely-care
+          - file: 10-faculty/21-why-research-mentoring-matters
+          - file: 10-faculty/22-take-your-role-as-a-mentor-seriously
+          - file: 10-faculty/23-designing-problems-for-your-courses
+          - file: 10-faculty/24-systems-thinking-in-mentoring
+  - caption: "Apéndices"
+    chapters:
+      - file: checklists
+      - file: about-the-series

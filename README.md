@@ -4,4 +4,6 @@ This is a free online handbook for PhD students, postdocs and young faculty, col
 
 **Read it online:** https://vzavala.github.io/UnsolicitedAdvice/
 
+**Léelo en español:** https://vzavala.github.io/UnsolicitedAdvice/es/
+
 

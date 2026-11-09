@@ -25,6 +25,8 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - run: jupyter-book build .
+      - run: jupyter-book build es
+      - run: cp -R es/_build/html _build/html/es
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _build/html

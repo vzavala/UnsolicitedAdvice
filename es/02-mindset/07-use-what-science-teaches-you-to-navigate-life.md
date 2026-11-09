@@ -1,0 +1,11 @@
+# Usa lo que te enseña la ciencia para navegar la vida
+
+> Publicado en LinkedIn el [5 de enero de 2023](https://www.linkedin.com/feed/update/urn:li:activity:7016774085208657920/).
+
+Usa lo que te ha enseñado tu investigación para navegar tu vida (en lo profesional y en lo personal). La ciencia te da una forma de pensar sobre el mundo y de navegarlo, así como herramientas para lidiar con la complejidad y resolver problemas.
+
+Ejemplo: cuando era un estudiante de doctorado recién llegado, me ponía súper ansioso con la enorme cantidad de literatura disponible; sentía que no había forma de leerlo todo y de aportar algo significativo al campo. No sabía por dónde empezar. Enfrentaba demasiada incertidumbre y eso me ponía ansioso. Mi respuesta fue leer lo más posible; sí, era una buena estrategia a corto plazo, pero no era sostenible. Leí muchas cosas que no necesitaba, desperdicié demasiado tiempo y capacidad mental (energía). Con el tiempo aprendí a pedir más consejo y orientación a científicos con más experiencia, y eso me ayudó a acotar mi búsqueda. Además, conforme ganaba experiencia, me resultaba más fácil anticipar qué era útil y qué no.
+
+Ahora que sé un poco de aprendizaje automático, veo este problema como un problema de recolección de datos, análogo a la optimización bayesiana (un área de investigación en la que he trabajado). Necesitas usar conocimiento *previo* (de científicos con más experiencia) que te ayude a acotar tu búsqueda; necesitas administrar con cuidado tu energía/tiempo para *explorar* la literatura y adquirir conocimiento y, cuando te sientas listo, *explotar* ese conocimiento para generar nuevas ideas/conocimiento. A medida que refuerzas tu conocimiento y puedes predecir el impacto potencial, te vuelves más estratégico al elegir qué leer; repites esto hasta converger (por ejemplo, escribir tus propios artículos y resolver tus problemas de investigación). Es una visión simplificada del problema, pero creo que te ayuda a plantear cómo navegarlo.
+
+Hay muchísimos ejemplos de cómo usar la ciencia en tu vida diaria; identificar esos usos es una buena habilidad para desarrollar, porque te ayudará a explicar mejor tu ciencia (en términos sencillos) y su relevancia.

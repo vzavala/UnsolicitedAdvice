@@ -41,3 +41,12 @@ Pushing to `main` on GitHub runs `.github/workflows/deploy.yml`, which builds th
 ## Private files
 
 `private/` is ignored by git. It holds the per-post LinkedIn analytics (`unsolicited-advice-engagement.csv`) and the full collected file, including reposts of other authors' posts, so they never end up in the public repository.
+
+## Spanish edition (`es/`)
+
+`es/` is a second Jupyter Book with the same folder structure and file names as the English book, translated into Latin American Spanish. It's published at `/es/` and each edition links to the other from the banner at the top of every page.
+
+- The Spanish pages are maintained by hand; `tools/build_book.py` doesn't touch them. When you add or change an English post, add or update the matching file under `es/` and its entry in `es/_toc.yml`.
+- `tools/split_bundle.py` writes a batch of translated pages from one text file (sections start with `=== FILE: path ===`). It adds the Spanish "Publicado en LinkedIn el …" date line from the English page automatically.
+- `es/_static` is a link to `_static`, so both editions share the same styling.
+- Build locally with `.venv/bin/jupyter-book build es`.

@@ -3,7 +3,7 @@ title: Unsolicited Advice for Young Scientists
 author: Victor M. Zavala
 copyright: "2022–2026"
 only_build_toc_files: true
-exclude_patterns: [.venv, _build, source, tools, private, .github, README.md, "**/.ipynb_checkpoints"]
+exclude_patterns: [.venv, _build, source, tools, private, .github, es, README.md, "**/.ipynb_checkpoints"]
 
 execute:
   execute_notebooks: "off"
@@ -29,3 +29,4 @@ sphinx:
     html_show_sourcelink: false
     html_theme_options:
       show_toc_level: 2
+      announcement: '🌎 <a href="/UnsolicitedAdvice/es/intro.html">Leer en español</a>'
