@@ -36,7 +36,3 @@ The appendices include [self-check lists](checklists.md) for students and facult
 5. **People are what make you effective.** Mentors, networks, self-awareness and humility matter.
 6. **Structure supports creativity.** Plan, write things down, and treat what you produce as an investment.
 7. **Reflect on purpose and progress.** Know what you want to be known for, and celebrate what you've done.
-
----
-
-🌎 **[Español](https://vzavala.github.io/UnsolicitedAdvice/es/intro.html)**

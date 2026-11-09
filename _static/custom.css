@@ -37,3 +37,11 @@ html[data-theme="dark"] {
 .bd-article .table a:hover span {
   color: var(--pst-color-link-hover);
 }
+
+/* Language switch flag next to the light/dark mode button. */
+.lang-switch-button {
+  font-size: 1.15rem;
+  line-height: 1;
+  padding: 0.25rem 0.4rem;
+  text-decoration: none;
+}
