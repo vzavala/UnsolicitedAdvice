@@ -4,8 +4,6 @@
 
 *Victor M. Zavala*
 
-🌎 **[Read in English (edición en inglés)](https://vzavala.github.io/UnsolicitedAdvice/intro.html)**
-
 ---
 
 Escribo una serie de publicaciones en LinkedIn bajo el título recurrente: *"Consejos no solicitados para jóvenes científicos…"* Son las cosas que me hubiera gustado que alguien me dijera a lo largo de mi camino como científico, sobre todo en los momentos difíciles. Muchos de estos consejos parecen básicos, pero pueden marcar una gran diferencia.
@@ -38,3 +36,7 @@ Los apéndices incluyen [listas de autoevaluación](checklists.md) para estudian
 5. **Las personas son las que te hacen efectivo.** Los mentores, las redes, la autoconciencia y la humildad importan.
 6. **La estructura impulsa la creatividad.** Planea, escribe las cosas y trata lo que produces como una inversión.
 7. **Reflexiona sobre tu propósito y tu progreso.** Ten claro por qué quieres que te conozcan y celebra lo que has logrado.
+
+---
+
+🌎 **[English](https://vzavala.github.io/UnsolicitedAdvice/intro.html)**

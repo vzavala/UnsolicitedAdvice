@@ -30,4 +30,3 @@ sphinx:
     html_show_sourcelink: false
     html_theme_options:
       show_toc_level: 2
-      announcement: '🌎 <a href="/UnsolicitedAdvice/intro.html">Read in English</a>'

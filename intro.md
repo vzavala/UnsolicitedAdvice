@@ -4,8 +4,6 @@
 
 *Victor M. Zavala*
 
-🌎 **[Leer en español (Spanish edition)](https://vzavala.github.io/UnsolicitedAdvice/es/intro.html)**
-
 ---
 
 I write a series of LinkedIn posts under the running title: *"Unsolicited advice for young scientists…"* These are the things I wish someone had told me along my journey as a scientist, especially when I was struggling. Many of these pieces of advice seem basic, but they can make a big difference.
@@ -38,3 +36,7 @@ The appendices include [self-check lists](checklists.md) for students and facult
 5. **People are what make you effective.** Mentors, networks, self-awareness and humility matter.
 6. **Structure supports creativity.** Plan, write things down, and treat what you produce as an investment.
 7. **Reflect on purpose and progress.** Know what you want to be known for, and celebrate what you've done.
+
+---
+
+🌎 **[Español](https://vzavala.github.io/UnsolicitedAdvice/es/intro.html)**
