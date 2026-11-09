@@ -4,6 +4,8 @@
 
 *Victor M. Zavala*
 
+🌎 **[Read in English (edición en inglés)](https://vzavala.github.io/UnsolicitedAdvice/intro.html)**
+
 ---
 
 Escribo una serie de publicaciones en LinkedIn bajo el título recurrente: *"Consejos no solicitados para jóvenes científicos…"* Son las cosas que me hubiera gustado que alguien me dijera a lo largo de mi camino como científico, sobre todo en los momentos difíciles. Muchos de estos consejos parecen básicos, pero pueden marcar una gran diferencia.

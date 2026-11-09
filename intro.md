@@ -4,6 +4,8 @@
 
 *Victor M. Zavala*
 
+🌎 **[Leer en español (Spanish edition)](https://vzavala.github.io/UnsolicitedAdvice/es/intro.html)**
+
 ---
 
 I write a series of LinkedIn posts under the running title: *"Unsolicited advice for young scientists…"* These are the things I wish someone had told me along my journey as a scientist, especially when I was struggling. Many of these pieces of advice seem basic, but they can make a big difference.
